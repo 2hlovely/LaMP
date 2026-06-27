@@ -1,0 +1,348 @@
+{
+  "pacs_domain_class_descriptions": {
+    "photo": {
+      "dog": [
+        "A realistic photograph of a dog sitting on the grass.",
+        "A close-up photo of a dog's face looking at the camera.",
+        "A dog running in a park with a ball in its mouth.",
+        "A golden retriever swimming in a lake.",
+        "A black and white photo of a dog sleeping on a rug.",
+        "A small puppy playing with a toy.",
+        "A dog barking at a stranger.",
+        "A dog sticking its head out of a car window.",
+        "A group of dogs playing together in a yard.",
+        "A dog waiting by the door for its owner."
+      ],
+      "elephant": [
+        "A large elephant walking through the savanna.",
+        "A close-up photo of an elephant's trunk.",
+        "A herd of elephants crossing a river.",
+        "An elephant spraying water on its back.",
+        "A baby elephant walking next to its mother.",
+        "An elephant eating leaves from a tree.",
+        "A majestic elephant standing in the sunset.",
+        "An elephant painting with its trunk.",
+        "A group of elephants playing in the mud.",
+        "An elephant with large tusks standing in the forest."
+      ],
+      "giraffe": [
+        "A tall giraffe eating leaves from a tall tree.",
+        "A giraffe running across the plains.",
+        "A close-up of a giraffe's head and long neck.",
+        "A mother giraffe and her calf standing together.",
+        "A giraffe drinking water from a waterhole.",
+        "A giraffe standing in a zoo enclosure.",
+        "A group of giraffes grazing in the savanna.",
+        "A giraffe walking through the bushes.",
+        "A giraffe looking at the camera with curiosity.",
+        "A silhouette of a giraffe against the sunset."
+      ],
+      "guitar": [
+        "An acoustic guitar leaning against a wall.",
+        "A person playing an electric guitar on stage.",
+        "A close-up of a guitar's strings and fretboard.",
+        "A vintage guitar hanging on a music store wall.",
+        "A guitarist strumming a guitar by a campfire.",
+        "A classical guitar resting on a stand.",
+        "A bass guitar with four strings.",
+        "A person holding a guitar and smiling.",
+        "A guitar case lying open on the floor.",
+        "A musician tuning a guitar before a concert."
+      ],
+      "horse": [
+        "A horse galloping through a field.",
+        "A close-up of a horse's head and mane.",
+        "A person riding a horse in a stable.",
+        "A herd of wild horses running free.",
+        "A horse grazing in a green pasture.",
+        "A jockey riding a racehorse on a track.",
+        "A horse jumping over a fence.",
+        "A black horse standing in a meadow.",
+        "A person grooming a horse.",
+        "A horse and carriage on a city street."
+      ],
+      "house": [
+        "A two-story house with a white picket fence.",
+        "A modern house with large glass windows.",
+        "A small cottage in the countryside.",
+        "A house with a red roof and a chimney.",
+        "An aerial view of a house and its backyard.",
+        "A house under construction.",
+        "A house covered in snow in winter.",
+        "A beach house with a view of the ocean.",
+        "A house with a garden full of flowers.",
+        "A cozy house with lights on in the evening."
+      ],
+      "person": [
+        "A person walking down a busy street.",
+        "A close-up portrait of a person smiling.",
+        "A person sitting on a bench reading a book.",
+        "A person running in a marathon.",
+        "A person holding an umbrella in the rain.",
+        "A person wearing a hat and sunglasses.",
+        "A person talking on a mobile phone.",
+        "A person cooking in a kitchen.",
+        "A person playing a musical instrument.",
+        "A person standing on a mountain top."
+      ]
+    },
+    "art_painting": {
+      "dog": [
+        "An oil painting of a dog sitting by a fireplace.",
+        "A watercolor painting of a dog in a field.",
+        "A portrait of a dog painted in an impressionist style.",
+        "A painting of a dog with a red collar.",
+        "An abstract painting of a dog's face.",
+        "A painting of a dog chasing a butterfly.",
+        "A classical painting of a hunting dog.",
+        "A painting of a dog sleeping on a chair.",
+        "A painting of a dog looking out of a window.",
+        "A painting of a dog with a bone."
+      ],
+      "elephant": [
+        "A painting of an elephant in a jungle.",
+        "A watercolor of an elephant walking in a line.",
+        "An oil painting of an elephant with colorful patterns.",
+        "A painting of an elephant playing with a ball.",
+        "A painting of an elephant and a bird.",
+        "A painting of an elephant in a circus.",
+        "A painting of an elephant's head in profile.",
+        "A painting of an elephant spraying water.",
+        "A painting of an elephant in the moonlight.",
+        "A painting of an elephant with its trunk raised."
+      ],
+      "giraffe": [
+        "A painting of a giraffe in a savanna landscape.",
+        "A painting of a giraffe with a long neck.",
+        "A watercolor of a giraffe eating leaves.",
+        "A painting of a giraffe and its baby.",
+        "A painting of a giraffe in a zoo.",
+        "A painting of a giraffe with spots.",
+        "A painting of a giraffe looking down.",
+        "A painting of a giraffe in a field of flowers.",
+        "A painting of a giraffe's head.",
+        "A painting of a giraffe running."
+      ],
+      "guitar": [
+        "A painting of a guitar on a table.",
+        "A still life painting of a guitar and fruit.",
+        "A painting of a person playing a guitar.",
+        "A painting of a guitar with flowers.",
+        "A painting of a guitar in a room.",
+        "A painting of a guitar with musical notes.",
+        "A painting of a guitar leaning against a chair.",
+        "A painting of a guitar with a ribbon.",
+        "A painting of a guitar in the sun.",
+        "A painting of a guitar with a shadow."
+      ],
+      "horse": [
+        "A painting of a horse in a meadow.",
+        "A painting of a horse running in the wind.",
+        "A painting of a horse and rider.",
+        "A painting of a horse's head.",
+        "A painting of a horse drinking water.",
+        "A painting of a horse in a stable.",
+        "A painting of a horse jumping.",
+        "A painting of a horse with a flowing mane.",
+        "A painting of a horse in a forest.",
+        "A painting of a horse in a field of flowers."
+      ],
+      "house": [
+        "A painting of a house in the countryside.",
+        "A painting of a house with a garden.",
+        "A painting of a house by the sea.",
+        "A painting of a house in the snow.",
+        "A painting of a house with a red roof.",
+        "A painting of a house with a chimney.",
+        "A painting of a house with a fence.",
+        "A painting of a house with a tree.",
+        "A painting of a house with a window.",
+        "A painting of a house with a door."
+      ],
+      "person": [
+        "A painting of a person sitting in a chair.",
+        "A painting of a person standing in a field.",
+        "A painting of a person walking in a park.",
+        "A painting of a person reading a book.",
+        "A painting of a person playing a musical instrument.",
+        "A painting of a person with a hat.",
+        "A painting of a person with a flower.",
+        "A painting of a person with a dog.",
+        "A painting of a person with a child.",
+        "A painting of a person with a smile."
+      ]
+    },
+    "cartoon": {
+      "dog": [
+        "A cartoon dog with big eyes and a wagging tail.",
+        "A cartoon dog wearing a collar.",
+        "A cartoon dog chasing a cat.",
+        "A cartoon dog sleeping on a rug.",
+        "A cartoon dog eating a bone.",
+        "A cartoon dog barking at a bee.",
+        "A cartoon dog running in a park.",
+        "A cartoon dog with floppy ears.",
+        "A cartoon dog with a red nose.",
+        "A cartoon dog with a happy expression."
+      ],
+      "elephant": [
+        "A cartoon elephant with a long trunk.",
+        "A cartoon elephant with big ears.",
+        "A cartoon elephant spraying water.",
+        "A cartoon elephant eating peanuts.",
+        "A cartoon elephant with a mouse on its trunk.",
+        "A cartoon elephant walking in a line.",
+        "A cartoon elephant with a hat.",
+        "A cartoon elephant with a smile.",
+        "A cartoon elephant with a balloon.",
+        "A cartoon elephant with a flower."
+      ],
+      "giraffe": [
+        "A cartoon giraffe with a long neck.",
+        "A cartoon giraffe with spots.",
+        "A cartoon giraffe eating leaves.",
+        "A cartoon giraffe with a scarf.",
+        "A cartoon giraffe with a hat.",
+        "A cartoon giraffe with a smile.",
+        "A cartoon giraffe with a balloon.",
+        "A cartoon giraffe with a flower.",
+        "A cartoon giraffe with a bird.",
+        "A cartoon giraffe with a butterfly."
+      ],
+      "guitar": [
+        "A cartoon guitar with a face.",
+        "A cartoon guitar with musical notes.",
+        "A cartoon guitar with a strap.",
+        "A cartoon guitar with a pick.",
+        "A cartoon guitar with a bow.",
+        "A cartoon guitar with a ribbon.",
+        "A cartoon guitar with a flower.",
+        "A cartoon guitar with a star.",
+        "A cartoon guitar with a heart.",
+        "A cartoon guitar with a smile."
+      ],
+      "horse": [
+        "A cartoon horse with a flowing mane.",
+        "A cartoon horse with a saddle.",
+        "A cartoon horse with a bridle.",
+        "A cartoon horse with a horseshoe.",
+        "A cartoon horse with a carrot.",
+        "A cartoon horse with a flower.",
+        "A cartoon horse with a smile.",
+        "A cartoon horse with a hat.",
+        "A cartoon horse with a balloon.",
+        "A cartoon horse with a bird."
+      ],
+      "house": [
+        "A cartoon house with a red roof.",
+        "A cartoon house with a chimney.",
+        "A cartoon house with a door.",
+        "A cartoon house with a window.",
+        "A cartoon house with a fence.",
+        "A cartoon house with a tree.",
+        "A cartoon house with a flower.",
+        "A cartoon house with a bird.",
+        "A cartoon house with a cat.",
+        "A cartoon house with a dog."
+      ],
+      "person": [
+        "A cartoon person with a big smile.",
+        "A cartoon person with a hat.",
+        "A cartoon person with a shirt.",
+        "A cartoon person with pants.",
+        "A cartoon person with shoes.",
+        "A cartoon person with a bag.",
+        "A cartoon person with a book.",
+        "A cartoon person with a ball.",
+        "A cartoon person with a flower.",
+        "A cartoon person with a bird."
+      ]
+    },
+    "sketch": {
+      "dog": [
+        "A sketch of a dog sitting.",
+        "A sketch of a dog running.",
+        "A sketch of a dog's head.",
+        "A sketch of a dog with a bone.",
+        "A sketch of a dog with a collar.",
+        "A sketch of a dog sleeping.",
+        "A sketch of a dog barking.",
+        "A sketch of a dog playing.",
+        "A sketch of a dog with floppy ears.",
+        "A sketch of a dog with a tail."
+      ],
+      "elephant": [
+        "A sketch of an elephant standing.",
+        "A sketch of an elephant walking.",
+        "A sketch of an elephant's head.",
+        "A sketch of an elephant with a trunk.",
+        "A sketch of an elephant with big ears.",
+        "A sketch of an elephant spraying water.",
+        "A sketch of an elephant eating.",
+        "A sketch of an elephant with tusks.",
+        "A sketch of an elephant with a baby.",
+        "A sketch of an elephant in a zoo."
+      ],
+      "giraffe": [
+        "A sketch of a giraffe standing.",
+        "A sketch of a giraffe eating.",
+        "A sketch of a giraffe's head.",
+        "A sketch of a giraffe with a long neck.",
+        "A sketch of a giraffe with spots.",
+        "A sketch of a giraffe with a baby.",
+        "A sketch of a giraffe in a zoo.",
+        "A sketch of a giraffe with a tree.",
+        "A sketch of a giraffe with a bird.",
+        "A sketch of a giraffe with a flower."
+      ],
+      "guitar": [
+        "A sketch of a guitar.",
+        "A sketch of a guitar with strings.",
+        "A sketch of a guitar with a pick.",
+        "A sketch of a guitar with a strap.",
+        "A sketch of a guitar with a bow.",
+        "A sketch of a guitar with a ribbon.",
+        "A sketch of a guitar with a flower.",
+        "A sketch of a guitar with a star.",
+        "A sketch of a guitar with a heart.",
+        "A sketch of a guitar with a smile."
+      ],
+      "horse": [
+        "A sketch of a horse standing.",
+        "A sketch of a horse running.",
+        "A sketch of a horse's head.",
+        "A sketch of a horse with a mane.",
+        "A sketch of a horse with a saddle.",
+        "A sketch of a horse with a bridle.",
+        "A sketch of a horse with a horseshoe.",
+        "A sketch of a horse with a carrot.",
+        "A sketch of a horse with a flower.",
+        "A sketch of a horse with a bird."
+      ],
+      "house": [
+        "A sketch of a house.",
+        "A sketch of a house with a roof.",
+        "A sketch of a house with a chimney.",
+        "A sketch of a house with a door.",
+        "A sketch of a house with a window.",
+        "A sketch of a house with a fence.",
+        "A sketch of a house with a tree.",
+        "A sketch of a house with a flower.",
+        "A sketch of a house with a bird.",
+        "A sketch of a house with a cat."
+      ],
+      "person": [
+        "A sketch of a person standing.",
+        "A sketch of a person walking.",
+        "A sketch of a person sitting.",
+        "A sketch of a person running.",
+        "A sketch of a person with a hat.",
+        "A sketch of a person with a shirt.",
+        "A sketch of a person with pants.",
+        "A sketch of a person with shoes.",
+        "A sketch of a person with a bag.",
+        "A sketch of a person with a book."
+      ]
+    }
+  }
+}

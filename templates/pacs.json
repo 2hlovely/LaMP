@@ -1,0 +1,351 @@
+{
+    "pacs_domain_class_descriptions": {
+    "photo": {
+        "dog": [
+            "A real photo of a dog with fur, four legs, ears, a tail, and a visible snout.",
+            "A photographic dog showing natural fur texture, paws, eyes, nose, and ears.",
+            "A realistic dog in a photo, with a furry body, four legs, and a tail.",
+            "A dog captured in a real-world image, showing its muzzle, ears, fur, and limbs.",
+            "A natural-looking dog with visible canine facial features, paws, and body shape.",
+            "A real dog photographed with detailed fur, a snout, two ears, and four legs.",
+            "A photo of a dog where the animal has a recognizable canine body and face.",
+            "A realistic dog with natural colors, fur patterns, a tail, and visible paws.",
+            "A dog in a photographic scene, identifiable by its ears, nose, fur, and legs.",
+            "A real-world dog image showing the animal's furry torso, head, tail, and paws."
+        ],
+        "elephant": [
+            "A real photo of an elephant with a massive gray body, long trunk, large ears, and thick legs.",
+            "A photographic elephant showing wrinkled skin, tusks, a trunk, and broad ears.",
+            "A realistic elephant in a photo, with a bulky body, column-like legs, and a long trunk.",
+            "An elephant captured in a real-world image, showing its gray skin, trunk, ears, and tusks.",
+            "A natural-looking elephant with a huge body, rough skin texture, and curved tusks.",
+            "A real elephant photographed with visible trunk, large head, wide ears, and heavy legs.",
+            "A photo of an elephant where the animal has a distinctive trunk and massive body.",
+            "A realistic elephant with gray wrinkled skin, large ears, and a long flexible trunk.",
+            "An elephant in a photographic scene, identifiable by its tusks, trunk, ears, and body size.",
+            "A real-world elephant image showing thick legs, rough skin, broad ears, and a trunk."
+        ],
+        "giraffe": [
+            "A real photo of a giraffe with a very long neck, long legs, and spotted coat.",
+            "A photographic giraffe showing natural fur texture, brown patches, and a tall body.",
+            "A realistic giraffe in a photo, with a small head, long neck, and patterned body.",
+            "A giraffe captured in a real-world image, showing its spots, long limbs, and tall posture.",
+            "A natural-looking giraffe with tan fur, dark brown patches, long legs, and a long neck.",
+            "A real giraffe photographed with visible ossicones, spotted coat, and slender body.",
+            "A photo of a giraffe where the animal has a recognizable long-necked silhouette.",
+            "A realistic giraffe with patch-like markings, thin legs, and a small head.",
+            "A giraffe in a photographic scene, identifiable by its height, spots, and long neck.",
+            "A real-world giraffe image showing a tall body, long neck, long legs, and patterned fur."
+        ],
+        "guitar": [
+            "A real photo of a guitar with strings, a long neck, a body, and a headstock.",
+            "A photographic guitar showing visible strings, frets, tuning pegs, and bridge.",
+            "A realistic guitar in a photo, with a wooden or solid body and an extended neck.",
+            "A guitar captured in a real-world image, showing its fretboard, body shape, and strings.",
+            "A natural-looking guitar with detailed surface texture, strings, neck, and tuning keys.",
+            "A real guitar photographed with a clear body outline, headstock, and string arrangement.",
+            "A photo of a guitar where the instrument has a recognizable stringed structure.",
+            "A realistic guitar with a curved acoustic body or solid electric body and visible frets.",
+            "A guitar in a photographic scene, identifiable by its strings, neck, and body.",
+            "A real-world guitar image showing the instrument's bridge, fretboard, tuning pegs, and body."
+        ],
+        "horse": [
+            "A real photo of a horse with a long face, mane, tail, hooves, and strong legs.",
+            "A photographic horse showing natural coat texture, muscular body, and flowing mane.",
+            "A realistic horse in a photo, with a long neck, large torso, and hoofed legs.",
+            "A horse captured in a real-world image, showing its mane, tail, ears, and body shape.",
+            "A natural-looking horse with visible hooves, long muzzle, mane, and strong limbs.",
+            "A real horse photographed with a muscular body, upright ears, mane, and tail.",
+            "A photo of a horse where the animal has a recognizable equine silhouette.",
+            "A realistic horse with natural coat colors, long legs, a mane, and a narrow face.",
+            "A horse in a photographic scene, identifiable by its hooves, long face, and mane.",
+            "A real-world horse image showing the animal's strong body, long neck, legs, and tail."
+        ],
+        "house": [
+            "A real photo of a house with walls, a roof, windows, and a front door.",
+            "A photographic house showing architectural details such as rooflines, windows, and exterior walls.",
+            "A realistic house in a photo, with a geometric structure, roof, door, and windows.",
+            "A house captured in a real-world image, showing its facade, entrance, roof, and window frames.",
+            "A natural-looking residential building with visible walls, roof, windows, and doorway.",
+            "A real house photographed with clear structural elements, roof shape, and exterior materials.",
+            "A photo of a house where the building has a recognizable residential form.",
+            "A realistic house with straight walls, a roof, window openings, and a visible entrance.",
+            "A house in a photographic scene, identifiable by its roof, windows, walls, and door.",
+            "A real-world house image showing architectural surfaces, roof structure, and building outline."
+        ],
+        "person": [
+            "A real photo of a person with a head, torso, arms, legs, and visible clothing.",
+            "A photographic person showing natural body proportions, face, limbs, and posture.",
+            "A realistic person in a photo, with a human silhouette, head, shoulders, and limbs.",
+            "A person captured in a real-world image, showing facial features, clothing, arms, and legs.",
+            "A natural-looking human figure with visible head, body, hands, legs, and clothing.",
+            "A real person photographed with an upright body posture and recognizable human features.",
+            "A photo of a person where the figure has a clear human body outline.",
+            "A realistic person with visible face, torso, arms, legs, and clothing details.",
+            "A person in a photographic scene, identifiable by human proportions and body parts.",
+            "A real-world person image showing the human head, torso, limbs, and posture."
+        ]
+    },
+
+    "art_painting": {
+        "dog": [
+            "An art painting of a dog with brush-painted fur, ears, snout, four legs, and tail.",
+            "A painted dog showing stylized fur texture, visible paws, nose, and canine face.",
+            "A dog depicted in an artistic painting style, with expressive colors and a recognizable animal body.",
+            "A painted image of a dog where the muzzle, ears, legs, and tail remain visible.",
+            "An artistic dog with brush strokes forming its furry body, face, and limbs.",
+            "A dog in a painting, identifiable by its snout, ears, paws, and tail despite stylization.",
+            "A painterly dog with visible canine silhouette, fur-like strokes, and four legs.",
+            "An art-style dog with simplified but recognizable ears, nose, torso, and paws.",
+            "A painted dog figure with textured colors, a furry outline, and a clear head shape.",
+            "A dog rendered as an art painting with visible body, legs, tail, and facial features."
+        ],
+        "elephant": [
+            "An art painting of an elephant with a large gray body, long trunk, broad ears, and thick legs.",
+            "A painted elephant showing brush-textured skin, tusks, trunk, and oversized ears.",
+            "An elephant depicted in an artistic painting style, with a massive body and curved trunk.",
+            "A painted image of an elephant where the trunk, ears, tusks, and heavy body remain visible.",
+            "An artistic elephant with brush strokes forming its wrinkled skin and bulky silhouette.",
+            "An elephant in a painting, identifiable by its trunk, large ears, tusks, and pillar-like legs.",
+            "A painterly elephant with a large head, long trunk, and rough skin texture.",
+            "An art-style elephant with simplified but recognizable trunk, ears, and body mass.",
+            "A painted elephant figure with muted gray tones, broad ears, and thick legs.",
+            "An elephant rendered as an art painting with visible trunk, tusks, large ears, and huge body."
+        ],
+        "giraffe": [
+            "An art painting of a giraffe with a long neck, long legs, and spotted coat.",
+            "A painted giraffe showing stylized brown patches, slender body, and tall posture.",
+            "A giraffe depicted in an artistic painting style, with a small head and very long neck.",
+            "A painted image of a giraffe where the spots, long limbs, and long neck remain visible.",
+            "An artistic giraffe with brush strokes forming its patchy coat and tall silhouette.",
+            "A giraffe in a painting, identifiable by its long neck, thin legs, and spotted body.",
+            "A painterly giraffe with tan and brown patterns, a narrow body, and extended neck.",
+            "An art-style giraffe with simplified but recognizable height, spots, and long neck.",
+            "A painted giraffe figure with irregular patch markings and elongated proportions.",
+            "A giraffe rendered as an art painting with visible long neck, long legs, and patterned fur."
+        ],
+        "guitar": [
+            "An art painting of a guitar with strings, a long neck, a body, and tuning pegs.",
+            "A painted guitar showing stylized wood texture, frets, strings, and curved body shape.",
+            "A guitar depicted in an artistic painting style, with a recognizable stringed instrument form.",
+            "A painted image of a guitar where the body, fretboard, headstock, and strings remain visible.",
+            "An artistic guitar with brush strokes forming its neck, body, strings, and bridge.",
+            "A guitar in a painting, identifiable by its strings, tuning keys, frets, and body outline.",
+            "A painterly guitar with a curved acoustic body or solid body and a long neck.",
+            "An art-style guitar with simplified but recognizable strings, body, and fretboard.",
+            "A painted guitar figure with visible neck extension, tuning pegs, and string layout.",
+            "A guitar rendered as an art painting with visible frets, strings, body, and headstock."
+        ],
+        "horse": [
+            "An art painting of a horse with a long face, mane, tail, hooves, and strong legs.",
+            "A painted horse showing stylized coat texture, muscular body, flowing mane, and tail.",
+            "A horse depicted in an artistic painting style, with an equine silhouette and long neck.",
+            "A painted image of a horse where the mane, hooves, long face, and legs remain visible.",
+            "An artistic horse with brush strokes forming its strong body, neck, and mane.",
+            "A horse in a painting, identifiable by its hoofed legs, tail, mane, and elongated face.",
+            "A painterly horse with visible body mass, curved neck, pointed ears, and long limbs.",
+            "An art-style horse with simplified but recognizable mane, hooves, face, and tail.",
+            "A painted horse figure with textured colors, strong legs, and a clear equine outline.",
+            "A horse rendered as an art painting with visible mane, long muzzle, hooves, and tail."
+        ],
+        "house": [
+            "An art painting of a house with a roof, walls, windows, and a door.",
+            "A painted house showing stylized architectural surfaces, rooflines, window frames, and entrance.",
+            "A house depicted in an artistic painting style, with a recognizable residential structure.",
+            "A painted image of a house where the roof, facade, windows, and doorway remain visible.",
+            "An artistic house with brush strokes forming its walls, roof, door, and windows.",
+            "A house in a painting, identifiable by its roof shape, window openings, and exterior walls.",
+            "A painterly house with geometric building forms, visible entrance, and roof structure.",
+            "An art-style house with simplified but recognizable roof, walls, windows, and door.",
+            "A painted house figure with textured colors, straight edges, and architectural details.",
+            "A house rendered as an art painting with visible facade, roofline, windows, and entrance."
+        ],
+        "person": [
+            "An art painting of a person with a head, torso, arms, legs, and clothing.",
+            "A painted person showing stylized facial features, body posture, limbs, and garments.",
+            "A person depicted in an artistic painting style, with a recognizable human silhouette.",
+            "A painted image of a person where the head, shoulders, arms, and legs remain visible.",
+            "An artistic human figure with brush strokes forming the face, clothing, and body.",
+            "A person in a painting, identifiable by human proportions, limbs, head, and posture.",
+            "A painterly person with visible torso, face, arms, legs, and clothing shapes.",
+            "An art-style person with simplified but recognizable head, body, and limb structure.",
+            "A painted human figure with expressive colors, visible face, and upright body outline.",
+            "A person rendered as an art painting with visible head, torso, limbs, and clothing."
+        ]
+    },
+
+    "cartoon": {
+        "dog": [
+            "A cartoon dog with simplified fur, large expressive eyes, ears, a snout, four legs, and a tail.",
+            "A stylized cartoon dog showing exaggerated ears, paws, nose, and a recognizable canine face.",
+            "A dog drawn in cartoon style, with a rounded body, simple legs, and a wagging tail.",
+            "A cartoon image of a dog where the muzzle, ears, paws, and tail are clearly simplified.",
+            "A playful cartoon dog with bold outlines, simplified fur, four legs, and a friendly face.",
+            "A dog in a cartoon drawing, identifiable by its snout, ears, paws, and tail.",
+            "A cartoon-style dog with exaggerated facial features and a compact animal body.",
+            "A simplified dog character with visible ears, nose, legs, and a tail.",
+            "A cartoon dog figure with thick outlines, bright colors, and clear canine features.",
+            "A dog rendered as a cartoon with a recognizable furry body, head, legs, and tail."
+        ],
+        "elephant": [
+            "A cartoon elephant with a large rounded body, long trunk, big ears, and thick legs.",
+            "A stylized cartoon elephant showing oversized ears, curved trunk, tusks, and gray body.",
+            "An elephant drawn in cartoon style, with simplified wrinkled skin and a bulky silhouette.",
+            "A cartoon image of an elephant where the trunk, ears, tusks, and body are clearly simplified.",
+            "A playful cartoon elephant with bold outlines, large ears, and a long flexible trunk.",
+            "An elephant in a cartoon drawing, identifiable by its trunk, ears, tusks, and heavy body.",
+            "A cartoon-style elephant with exaggerated ears, rounded body, and pillar-like legs.",
+            "A simplified elephant character with visible trunk, tusks, big ears, and thick feet.",
+            "A cartoon elephant figure with thick outlines, gray tones, and distinctive trunk shape.",
+            "An elephant rendered as a cartoon with a recognizable huge body, trunk, ears, and legs."
+        ],
+        "giraffe": [
+            "A cartoon giraffe with a very long neck, small head, long legs, and spotted coat.",
+            "A stylized cartoon giraffe showing exaggerated height, brown patches, and thin legs.",
+            "A giraffe drawn in cartoon style, with simplified spots, long neck, and tall posture.",
+            "A cartoon image of a giraffe where the long neck, spots, and legs are clearly simplified.",
+            "A playful cartoon giraffe with bold outlines, patch markings, and an elongated body.",
+            "A giraffe in a cartoon drawing, identifiable by its long neck, small head, and spotted body.",
+            "A cartoon-style giraffe with exaggerated neck length and simple brown body patches.",
+            "A simplified giraffe character with visible ossicones, spots, long legs, and long neck.",
+            "A cartoon giraffe figure with thick outlines, tan colors, and distinctive patch patterns.",
+            "A giraffe rendered as a cartoon with a recognizable tall body, spots, long neck, and legs."
+        ],
+        "guitar": [
+            "A cartoon guitar with a simplified body, long neck, strings, frets, and headstock.",
+            "A stylized cartoon guitar showing bold outlines, visible strings, tuning pegs, and curved body.",
+            "A guitar drawn in cartoon style, with exaggerated body shape and a clear fretboard.",
+            "A cartoon image of a guitar where the strings, neck, body, and tuning keys are clearly simplified.",
+            "A playful cartoon guitar with bright colors, thick outlines, and recognizable string layout.",
+            "A guitar in a cartoon drawing, identifiable by its strings, frets, headstock, and body.",
+            "A cartoon-style guitar with a simplified acoustic or electric body and extended neck.",
+            "A simplified guitar object with visible strings, bridge, tuning pegs, and fretboard.",
+            "A cartoon guitar figure with thick outlines, a shaped body, and a long narrow neck.",
+            "A guitar rendered as a cartoon with recognizable strings, body, frets, and headstock."
+        ],
+        "horse": [
+            "A cartoon horse with a long face, mane, tail, hooves, and four strong legs.",
+            "A stylized cartoon horse showing exaggerated eyes, flowing mane, hooves, and tail.",
+            "A horse drawn in cartoon style, with simplified body shape, long neck, and pointed ears.",
+            "A cartoon image of a horse where the mane, legs, hooves, and face are clearly simplified.",
+            "A playful cartoon horse with bold outlines, a long muzzle, mane, and tail.",
+            "A horse in a cartoon drawing, identifiable by its hoofed legs, long face, mane, and tail.",
+            "A cartoon-style horse with exaggerated facial features and a recognizable equine body.",
+            "A simplified horse character with visible ears, mane, legs, hooves, and tail.",
+            "A cartoon horse figure with thick outlines, simple coat colors, and clear equine features.",
+            "A horse rendered as a cartoon with a recognizable body, long neck, mane, legs, and tail."
+        ],
+        "house": [
+            "A cartoon house with a simplified roof, walls, windows, and front door.",
+            "A stylized cartoon house showing bold outlines, a pitched roof, window frames, and entrance.",
+            "A house drawn in cartoon style, with simple geometric walls and a clear roof shape.",
+            "A cartoon image of a house where the roof, windows, door, and walls are clearly simplified.",
+            "A playful cartoon house with bright colors, thick outlines, and recognizable residential features.",
+            "A house in a cartoon drawing, identifiable by its roofline, windows, doorway, and exterior walls.",
+            "A cartoon-style house with simplified architectural shapes and a visible entrance.",
+            "A simplified house object with a triangular roof, rectangular body, windows, and door.",
+            "A cartoon house figure with thick outlines, simple facade, and clear building structure.",
+            "A house rendered as a cartoon with recognizable roof, walls, windows, and doorway."
+        ],
+        "person": [
+            "A cartoon person with a simplified head, torso, arms, legs, and clothing.",
+            "A stylized cartoon person showing exaggerated facial features, body posture, and limbs.",
+            "A person drawn in cartoon style, with a simplified human silhouette and visible clothing.",
+            "A cartoon image of a person where the head, arms, torso, and legs are clearly simplified.",
+            "A playful cartoon human figure with bold outlines, expressive face, and clear body shape.",
+            "A person in a cartoon drawing, identifiable by human proportions, limbs, head, and clothing.",
+            "A cartoon-style person with exaggerated eyes, simplified body, and visible arms and legs.",
+            "A simplified person character with a head, shoulders, torso, hands, legs, and clothes.",
+            "A cartoon person figure with thick outlines, simple colors, and recognizable human features.",
+            "A person rendered as a cartoon with a recognizable head, body, limbs, and posture."
+        ]
+    },
+
+    "sketch": {
+        "dog": [
+            "A sketch of a dog with line-drawn ears, snout, four legs, body, and tail.",
+            "A black-and-white dog sketch showing a simple canine outline, paws, nose, and ears.",
+            "A dog drawn as a sketch, with minimal lines forming the head, torso, legs, and tail.",
+            "A sketched dog where the muzzle, ears, paws, and tail are visible through line contours.",
+            "A simple line drawing of a dog with a recognizable furry body and canine face.",
+            "A dog in sketch style, identifiable by its snout, ears, four legs, and tail.",
+            "A hand-drawn dog outline with simplified limbs, head, ears, and body shape.",
+            "A pencil sketch of a dog with visible nose, paws, torso, and tail.",
+            "A dog sketch using contour lines to show the animal's head, legs, and tail.",
+            "A dog rendered as a sketch with sparse lines but clear canine structure."
+        ],
+        "elephant": [
+            "A sketch of an elephant with line-drawn trunk, large ears, tusks, body, and thick legs.",
+            "A black-and-white elephant sketch showing a bulky outline, long trunk, and wide ears.",
+            "An elephant drawn as a sketch, with minimal lines forming the huge body and trunk.",
+            "A sketched elephant where the trunk, ears, tusks, and legs are visible through line contours.",
+            "A simple line drawing of an elephant with a recognizable massive body and long trunk.",
+            "An elephant in sketch style, identifiable by its trunk, broad ears, tusks, and pillar-like legs.",
+            "A hand-drawn elephant outline with simplified ears, trunk, heavy torso, and feet.",
+            "A pencil sketch of an elephant with visible trunk, tusks, head, and thick legs.",
+            "An elephant sketch using contour lines to show the animal's large body and ears.",
+            "An elephant rendered as a sketch with sparse lines but clear trunk and massive structure."
+        ],
+        "giraffe": [
+            "A sketch of a giraffe with line-drawn long neck, small head, long legs, and spots.",
+            "A black-and-white giraffe sketch showing a tall outline, long neck, and patterned body.",
+            "A giraffe drawn as a sketch, with minimal lines forming its long neck and legs.",
+            "A sketched giraffe where the spots, long neck, and slender body are visible through line contours.",
+            "A simple line drawing of a giraffe with a recognizable tall body and patch markings.",
+            "A giraffe in sketch style, identifiable by its long neck, long legs, small head, and spots.",
+            "A hand-drawn giraffe outline with simplified ossicones, neck, torso, and limbs.",
+            "A pencil sketch of a giraffe with visible patch patterns, long legs, and long neck.",
+            "A giraffe sketch using contour lines to show the animal's height and spotted coat.",
+            "A giraffe rendered as a sketch with sparse lines but clear long-necked structure."
+        ],
+        "guitar": [
+            "A sketch of a guitar with line-drawn strings, long neck, body, and headstock.",
+            "A black-and-white guitar sketch showing a simple instrument outline, frets, and tuning pegs.",
+            "A guitar drawn as a sketch, with minimal lines forming the body, neck, and strings.",
+            "A sketched guitar where the strings, fretboard, body, and headstock are visible through line contours.",
+            "A simple line drawing of a guitar with a recognizable stringed structure and body shape.",
+            "A guitar in sketch style, identifiable by its strings, frets, long neck, and body.",
+            "A hand-drawn guitar outline with simplified tuning keys, bridge, fretboard, and body.",
+            "A pencil sketch of a guitar with visible strings, neck, headstock, and curved body.",
+            "A guitar sketch using contour lines to show the instrument's body and string layout.",
+            "A guitar rendered as a sketch with sparse lines but clear neck, strings, and body structure."
+        ],
+        "horse": [
+            "A sketch of a horse with line-drawn long face, mane, tail, hooves, and legs.",
+            "A black-and-white horse sketch showing an equine outline, long neck, and strong limbs.",
+            "A horse drawn as a sketch, with minimal lines forming the body, head, legs, and tail.",
+            "A sketched horse where the mane, hooves, long face, and legs are visible through line contours.",
+            "A simple line drawing of a horse with a recognizable equine body and long muzzle.",
+            "A horse in sketch style, identifiable by its mane, hooves, long face, and tail.",
+            "A hand-drawn horse outline with simplified ears, neck, torso, legs, and tail.",
+            "A pencil sketch of a horse with visible mane, hooves, strong legs, and long face.",
+            "A horse sketch using contour lines to show the animal's body, neck, and tail.",
+            "A horse rendered as a sketch with sparse lines but clear equine structure."
+        ],
+        "house": [
+            "A sketch of a house with line-drawn roof, walls, windows, and door.",
+            "A black-and-white house sketch showing a simple building outline, roofline, and window frames.",
+            "A house drawn as a sketch, with minimal lines forming the roof, facade, windows, and entrance.",
+            "A sketched house where the roof, walls, door, and windows are visible through line contours.",
+            "A simple line drawing of a house with a recognizable residential structure and roof.",
+            "A house in sketch style, identifiable by its roof shape, windows, doorway, and walls.",
+            "A hand-drawn house outline with simplified roof, rectangular body, windows, and door.",
+            "A pencil sketch of a house with visible facade, roofline, entrance, and window openings.",
+            "A house sketch using contour lines to show the building's roof, walls, and windows.",
+            "A house rendered as a sketch with sparse lines but clear architectural structure."
+        ],
+        "person": [
+            "A sketch of a person with line-drawn head, torso, arms, legs, and clothing.",
+            "A black-and-white person sketch showing a simple human outline, face, and limbs.",
+            "A person drawn as a sketch, with minimal lines forming the head, body, arms, and legs.",
+            "A sketched person where the head, shoulders, torso, and limbs are visible through line contours.",
+            "A simple line drawing of a person with a recognizable human silhouette and posture.",
+            "A person in sketch style, identifiable by human proportions, head, arms, legs, and clothing.",
+            "A hand-drawn human outline with simplified face, torso, hands, legs, and body shape.",
+            "A pencil sketch of a person with visible head, shoulders, arms, legs, and clothes.",
+            "A person sketch using contour lines to show the human body shape and posture.",
+            "A person rendered as a sketch with sparse lines but clear human structure."
+        ]
+    }
+}
+}

@@ -1,0 +1,348 @@
+{
+    "pacs_domain_class_descriptions": {
+        "photo": {
+            "dog": [
+                "A high-resolution photograph of a domestic dog with a fluffy coat, standing on a grassy lawn.",
+                "Realistic photo of a golden retriever dog playing fetch with a red ball in a sunny park.",
+                "Close-up photographic shot of a small Chihuahua dog with big eyes, sitting on a wooden floor.",
+                "Outdoor photo of a German Shepherd dog guarding a house, its fur glistening in natural light.",
+                "Candid photo of a group of dogs running through a field, capturing their energetic movement.",
+                "Studio photograph of a poodle dog with a neatly groomed coat, posed against a plain white background.",
+                "Street photography of a stray dog lying on the pavement, looking calm and relaxed.",
+                "Action photo of a border collie dog herding sheep, showcasing its intelligence and agility.",
+                "Family photo featuring a loyal dog sitting beside its owner, both smiling at the camera.",
+                "Nature photo of a husky dog walking in the snow, its thick fur adapted to the cold environment."
+            ],
+            "elephant": [
+                "Photograph of a large African elephant walking across the savanna, its trunk swinging as it moves.",
+                "Realistic photo of a baby elephant playing with its mother in a watering hole, splashing water around.",
+                "Wildlife photography of a herd of elephants feeding on leaves from tall trees in a jungle.",
+                "Close-up photo of an elephant's face, showing its textured skin and long tusks.",
+                "Zoo photograph of an elephant interacting with a zookeeper, taking food from their hand.",
+                "Aerial photo of elephants migrating across a vast plain, captured from a drone.",
+                "Portrait photo of an elderly elephant with worn tusks, standing peacefully in its natural habitat.",
+                "Action photo of an elephant using its trunk to lift a log, demonstrating its strength.",
+                "Low-light photo of elephants at night near a water source, illuminated by moonlight.",
+                "Documentary photo of an elephant being cared for at a wildlife sanctuary after an injury."
+            ],
+            "giraffe": [
+                "Clear photograph of a giraffe reaching up to eat leaves from the top of an acacia tree.",
+                "Wildlife photo of a group of giraffes (a tower) standing together on the African savanna.",
+                "Close-up photo of a giraffe's head, highlighting its distinctive spotted pattern and ossicones.",
+                "Side-profile photo of a giraffe walking, showing its long legs and neck in motion.",
+                "Zoo photograph of a baby giraffe standing next to its mother, much smaller in size.",
+                "Sunset photo of a giraffe silhouetted against the orange sky, creating a striking visual.",
+                "Detailed photo of a giraffe's coat, showing the unique pattern of spots that identify it.",
+                "Action photo of a giraffe running across the grassland, its long legs moving quickly.",
+                "Photograph of a giraffe drinking water, bending its neck down to reach a water hole.",
+                "Environmental photo of a giraffe in a protected reserve, surrounded by native vegetation."
+            ],
+            "guitar": [
+                "High-quality photograph of a classic wooden acoustic guitar, resting on a vintage leather chair.",
+                "Studio photo of an electric guitar with a glossy red finish, displayed against a black background.",
+                "Close-up photo of a guitarist's hands playing a guitar, focusing on the fingers on the fretboard.",
+                "Detail photo of a guitar's sound hole and strings, showing the craftsmanship of the instrument.",
+                "Lifestyle photo of a guitar leaning against a wall in a cozy music studio, with sheet music nearby.",
+                "Vintage photo of an old acoustic guitar with a worn finish, telling a story of years of use.",
+                "Concert photo of a guitar being played on stage, lit by colorful spotlights.",
+                "Macro photo of a guitar's tuning pegs, showing the metal details and wood grain.",
+                "Outdoor photo of a guitar being played at a campfire, with the flames in the background.",
+                "Product photo of a modern electric guitar with custom pickups, designed for rock music."
+            ],
+            "horse": [
+                "Beautiful photograph of a thoroughbred horse galloping across a green meadow, mane flowing in the wind.",
+                "Equestrian photo of a horse and rider jumping over an obstacle in a show jumping competition.",
+                "Close-up photo of a horse's face, showing its gentle eyes and well-groomed mane.",
+                "Rural photo of a draft horse pulling a wooden cart through a country road, demonstrating its power.",
+                "Stable photo of a horse being groomed by its owner, with a brush in hand.",
+                "Wild photo of a herd of mustang horses running free in the American West.",
+                "Portrait photo of a pony (small horse) with a colorful bridle, standing in a pasture.",
+                "Winter photo of a horse standing in a snowy field, its coat thick to keep warm.",
+                "Beach photo of a horse walking along the shoreline, with the ocean waves in the background.",
+                "Racing photo of a horse at the finish line, jockey leaning forward in victory."
+            ],
+            "house": [
+                "Architectural photograph of a modern single-family house with large glass windows and a flat roof.",
+                "Suburban photo of a cozy two-story house with a white picket fence and a well-maintained garden.",
+                "Rustic photo of a wooden cabin house in the mountains, surrounded by pine trees.",
+                "Urban photo of an apartment house (multi-story) in a busy city, with balconies on each floor.",
+                "Historical photo of a Victorian-style house with intricate trim and a steeply pitched roof.",
+                "Aerial photo of a house with a swimming pool in the backyard, captured from above.",
+                "Interior-exterior photo of a house with an open front porch, decorated with rocking chairs.",
+                "Beach photo of a small beach house with a thatched roof, steps leading to the sand.",
+                "Renovation photo of an old house being restored, with new siding and a fresh coat of paint.",
+                "Night photo of a house lit up with warm lights, creating a welcoming atmosphere."
+            ],
+            "person": [
+                "Candid street photograph of a smiling person walking through a busy city market, carrying a bag of groceries.",
+                "Portrait photo of a young person with curly hair, looking directly at the camera against a brick wall background.",
+                "Action photo of a person running in a marathon, focused and determined with sweat on their forehead.",
+                "Family photo of an elderly person holding their grandchild, both sharing a tender moment.",
+                "Professional photo of a person in a business suit, standing in a modern office with a laptop in hand.",
+                "Outdoor photo of a person hiking in the mountains, backpack on and looking out at the view.",
+                "Cultural photo of a person wearing traditional clothing at a festival, dancing to music.",
+                "Close-up photo of a person's hands painting a canvas, showing creativity and skill.",
+                "Travel photo of a person sitting on a bench in a foreign city, looking at a map and exploring.",
+                "Casual photo of a group of people laughing together at a picnic, enjoying a sunny day."
+            ]
+        },
+        "art_painting": {
+            "dog": [
+                "Impressionist oil painting of a dog lying in a field of wildflowers, brushstrokes soft and colorful.",
+                "Realistic oil painting of a hunting dog, detailed fur and intense eyes, set against a forest backdrop.",
+                "Abstract painting of a dog, using bold geometric shapes and vibrant reds and blacks to capture its essence.",
+                "Watercolor painting of a small dog sitting by a window, soft washes of color creating a gentle mood.",
+                "Post-impressionist painting of a pack of dogs, thick application of paint (impasto) and vivid hues.",
+                "Renaissance-style painting of a noble dog, positioned beside a knight in a castle setting.",
+                "Pop art painting of a dog, bright block colors and repetitive patterns, inspired by modern culture.",
+                "Surrealist painting of a dog with wings, floating above a dreamlike landscape of clouds and mountains.",
+                "Acrylic painting of a rescue dog, warm earth tones and expressive brushwork to convey warmth.",
+                "Folk art painting of a dog in a rural scene, simple forms and bold outlines, typical of traditional folk art."
+            ],
+            "elephant": [
+                "Realistic oil painting of an elephant in a jungle, rich greens and browns, intricate details of its skin and tusks.",
+                "Abstract expressionist painting of an elephant, dynamic brushstrokes and splatters of paint in blues and greys.",
+                "Watercolor painting of a baby elephant, delicate washes of pink and grey, set in a tropical watering hole.",
+                "African tribal art painting of an elephant, bold patterns and earthy tones, reflecting cultural symbolism.",
+                "Surrealist painting of an elephant with a body made of clouds, walking through a desert landscape.",
+                "Baroque-style painting of an elephant in a royal menagerie, dramatic lighting and rich textures.",
+                "Minimalist painting of an elephant, simple lines and a monochromatic palette of grey and white.",
+                "Impressionist painting of a herd of elephants at sunset, soft orange and purple hues blending together.",
+                "Mixed-media painting of an elephant, combining paint, collage, and texture to create depth in its skin.",
+                "Pop art painting of an elephant, bright yellow and black colors, repeated motifs and bold outlines."
+            ],
+            "giraffe": [
+                "Impressionist painting of a giraffe in the savanna at dawn, soft light and blended brushstrokes in yellows and greens.",
+                "Art deco painting of a giraffe, geometric patterns and sleek lines, gold and black accents against a cream background.",
+                "Watercolor painting of a giraffe's head, delicate details of its ossicones and spotted pattern, soft blue sky backdrop.",
+                "Abstract painting of a giraffe, using vertical brushstrokes to emphasize its height, in shades of brown and cream.",
+                "Wildlife realism painting of a giraffe feeding on acacia leaves, hyper-detailed fur and realistic shading.",
+                "Surrealist painting of a giraffe with a long neck winding through a forest of giant flowers.",
+                "Fauvist painting of a giraffe, bold and unnatural colors (bright pinks and greens) to evoke emotion.",
+                "Acrylic painting of a group of giraffes, thick paint application and vibrant savanna colors.",
+                "Renaissance-inspired painting of a giraffe in a royal garden, classical composition and soft lighting.",
+                "Pop art painting of a giraffe, repeating spotted patterns in neon colors against a black background."
+            ],
+            "guitar": [
+                "Realistic oil painting of a vintage acoustic guitar, detailed wood grain and metal strings, resting on a velvet cushion.",
+                "Abstract painting of an electric guitar, fragmented shapes and bold reds and blues, capturing the energy of rock music.",
+                "Watercolor painting of a guitar being played, soft washes of color blending to show movement in the hands.",
+                "Surrealist painting of a guitar with strings made of light, floating in a starry night sky.",
+                "Art nouveau painting of a guitar, curved lines and floral motifs decorating the body, inspired by 19th-century design.",
+                "Pop art painting of a guitar, bright block colors and brand logos repeated, reflecting consumer culture.",
+                "Impressionist painting of a guitar in a jazz club, soft lighting and blurred brushstrokes, warm tones of amber and brown.",
+                "Minimalist painting of a guitar, simple black lines on a white canvas, focusing on the instrument's form.",
+                "Mixed-media painting of a guitar, combining paint and collage of sheet music, creating a textured, musical backdrop.",
+                "Folk art painting of a guitar, hand-painted floral designs on the body, simple and charming style of traditional folk art."
+            ],
+            "horse": [
+                "Classical oil painting of a stallion, muscular build and flowing mane, set in a pastoral landscape (in the style of Stubbs).",
+                "Impressionist painting of horses running through a meadow, soft brushstrokes and dappled sunlight in greens and golds.",
+                "Abstract painting of a horse, dynamic black lines on a white background, capturing movement and strength.",
+                "Watercolor painting of a pony in a meadow, delicate pink and yellow wildflowers around it, soft and gentle tones.",
+                "Baroque painting of a horse ridden by a king, dramatic lighting, rich fabrics, and a regal setting.",
+                "Pop art painting of a racehorse, bright neon colors and bold outlines, repeated numbers and jockey silks.",
+                "Surrealist painting of a horse with a body made of clouds, galloping across a surreal desert landscape.",
+                "Fauvist painting of a horse, bold and unrealistic colors (purple, orange) to express emotion over realism.",
+                "Acrylic painting of a draft horse pulling a plow, earthy tones and thick brushstrokes, capturing rural life.",
+                "Art deco painting of a horse, geometric patterns and sleek lines, gold and black accents, 1920s style."
+            ],
+            "house": [
+                "Impressionist oil painting of a cottage house in a village, soft brushstrokes of green and pink, blooming roses around the door.",
+                "Realistic painting of a modern mansion, detailed architecture and glass windows, set in a lush, landscaped garden.",
+                "Watercolor painting of a beach house, soft washes of blue and white, capturing the coastal breeze and light.",
+                "Abstract painting of a house, fragmented shapes in reds and blacks, exploring themes of home and identity.",
+                "Renaissance-style painting of a castle (large house), classical proportions, stone walls, and a moat around it.",
+                "Pop art painting of a suburban house, bright block colors and repeating rooflines, reflecting suburban culture.",
+                "Surrealist painting of a house floating in the sky, clouds around its foundation, doors leading to nowhere.",
+                "Folk art painting of a farm house, simple forms and bold outlines, red barn and white picket fence, traditional style.",
+                "Art nouveau painting of a house, curved lines and floral motifs on the facade, stained glass windows, 1900s design.",
+                "Minimalist painting of a house, simple white lines on a grey canvas, focusing on the basic structure and form."
+            ],
+            "person": [
+                "Renaissance oil painting of a noble person, rich fabrics and a detailed face, set in a grand interior with a landscape view.",
+                "Impressionist painting of a person walking in a park, soft brushstrokes and dappled sunlight, capturing a moment in time.",
+                "Abstract expressionist painting of a person, bold splatters of paint and dynamic lines, expressing emotion and movement.",
+                "Watercolor painting of a child (young person), soft washes of pink and blue, innocent and gentle mood.",
+                "Pop art painting of a celebrity person, bright block colors and repeated images, inspired by mass media.",
+                "Surrealist painting of a person with a clock for a head, standing in a dreamlike landscape of melting objects.",
+                "Fauvist painting of a person, bold and unnatural colors (bright green skin, red hair) to evoke strong emotion.",
+                "Portrait painting of an elderly person, realistic details of wrinkles and expression, warm earth tones and soft lighting.",
+                "Art deco painting of a person in 1920s fashion, sleek lines and geometric patterns, gold and black accents.",
+                "Folk art painting of a family of people, simple forms and bright colors, gathered around a dinner table in a rural home."
+            ]
+        },
+        "cartoon": {
+            "dog": [
+                "2D cartoon of a friendly golden retriever dog with big, round eyes and a wagging tail, wearing a red collar with a bone tag.",
+                "Animated cartoon of a small Chihuahua dog with a high-pitched voice, standing on its hind legs and barking at a bird.",
+                "Disney-style cartoon of a loyal dog with floppy ears, embarking on an adventure through a forest with a group of animal friends.",
+                "Looney Tunes-style cartoon of a mischievous dog, pranking a cat by hiding its food bowl, exaggerated expressions and comedic timing.",
+                "Pixel art cartoon of a dog character in a video game, 8-bit style, running through a level to collect bones as power-ups.",
+                "Modern 3D cartoon of a superhero dog with a cape, flying through the city to save a cat from a tree, shiny fur and dynamic movement.",
+                "Japanese anime-style cartoon of a magical dog with pink fur and wings, using powers to help humans in a small village.",
+                "Stop-motion cartoon of a claymation dog, playing in a backyard with a rubber ball, textured clay and playful movements.",
+                "Minimalist cartoon of a dog, simple black lines on a white background, expressive tail and ears to show emotion (happy/sad).",
+                "Retro cartoon of a 1950s-style dog, wearing a bandana and driving a tiny car, classic animation style with bold outlines and bright colors."
+            ],
+            "elephant": [
+                "2D cartoon of a cute baby elephant with big floppy ears, tripping over its own trunk and giggling, bright grey color with pink cheeks.",
+                "Animated cartoon of a wise old elephant with a long memory, telling stories to other jungle animals, deep voice and slow, deliberate movements.",
+                "Disney-style cartoon of an elephant with large ears that allow it to fly (like Dumbo), soaring over a circus tent with a joyful expression.",
+                "Looney Tunes-style cartoon of a clumsy elephant, accidentally knocking over trees and causing comedic chaos in the jungle, exaggerated proportions.",
+                "Pixel art cartoon of an elephant character in a platform game, stomping on enemies with its big feet, 16-bit style with vibrant jungle colors.",
+                "3D cartoon of an elephant astronaut, wearing a space suit and exploring a planet, trunk used to collect alien samples, shiny helmet and playful design.",
+                "Anime-style cartoon of a magical elephant with glowing tusks, protecting a hidden jungle temple from evil forces, dynamic action scenes.",
+                "Claymation cartoon of an elephant making mud pies, textured clay body and expressive eyes, stop-motion movement in a muddy waterhole.",
+                "Minimalist cartoon of an elephant, simple curved lines, trunk curled up in a smile, monochromatic grey with a pop of yellow for the eyes.",
+                "Retro 1960s cartoon of an elephant in a circus, balancing on a ball with a top hat, bold outlines and flat bright colors."
+            ],
+            "giraffe": [
+                "2D cartoon of a silly giraffe with a super long neck, trying to reach a leaf on the tallest tree and stumbling comically, bright yellow with brown spots.",
+                "Animated cartoon of a baby giraffe learning to walk, wobbly legs and big eyes, supported by its mother, soft pastel colors.",
+                "Disney-style cartoon of a giraffe with a cheerful personality, singing with other savanna animals in a musical number, expressive mouth and eyes.",
+                "Looney Tunes-style cartoon of a giraffe outsmarting a lion, using its long neck to reach safety on a high branch, exaggerated neck stretching.",
+                "Pixel art cartoon of a giraffe in a safari-themed video game, using its neck to reach hidden items, 8-bit spots and bright green grass.",
+                "3D cartoon of a giraffe fashionista, wearing a colorful scarf around its neck and sunglasses, strutting through the savanna, shiny fur texture.",
+                "Anime-style cartoon of a magical giraffe with star-shaped spots, guiding lost travelers through a mystical savanna, glowing spots at night.",
+                "Claymation cartoon of a giraffe eating leaves, clay spots and a textured neck, slow, deliberate movements as it chews.",
+                "Minimalist cartoon of a giraffe, simple vertical lines for the neck and body, small head with a tiny smile, monochromatic yellow.",
+                "Retro 1970s cartoon of a giraffe in a children's show, teaching kids about numbers by counting its spots, bold, flat colors and simple dialogue."
+            ],
+            "guitar": [
+                "2D cartoon of a talking electric guitar with googly eyes and a smiling mouth, playing rock music and jumping on a stage, bright red body.",
+                "Animated cartoon of a acoustic guitar with a wooden texture, being played by a cartoon musician in a cozy café, soft strumming movements.",
+                "Disney-style cartoon of a magical guitar that grants wishes, glowing strings and intricate carvings, held by a young adventurer.",
+                "Looney Tunes-style cartoon of a guitar that malfunctions, playing loud, off-key music and causing chaos in a music store, exaggerated sound effects.",
+                "Pixel art cartoon of a guitar power-up in a rhythm game, 8-bit notes flying out as it's played, neon-colored strings.",
+                "3D cartoon of a futuristic guitar with holographic buttons, playing electronic music in a cyberpunk city, shiny metallic body.",
+                "Anime-style cartoon of a guitar with cherry blossom designs, played by a schoolgirl in a band, dynamic performance scenes with sparkles.",
+                "Claymation cartoon of a handmade guitar, clay strings and a painted body, being played around a campfire with claymation animals singing along.",
+                "Minimalist cartoon of a guitar, simple black lines on a white background, a single musical note floating above it, clean and modern style.",
+                "Retro 1980s cartoon of a neon-colored guitar, played by a rock star cartoon character with big hair, bold outlines and bright pink/purple hues."
+            ],
+            "horse": [
+                "2D cartoon of a playful pony with a rainbow-colored mane and tail, trotting through a magical forest, big sparkly eyes and a tiny horn (unicorn pony).",
+                "Animated cartoon of a racehorse with a determined expression, zooming around a track with a jockey, exaggerated speed lines and dust clouds.",
+                "Disney-style cartoon of a noble stallion, loyal to a princess, with a flowing black mane, galloping through a castle courtyard.",
+                "Looney Tunes-style cartoon of a clumsy horse tripping over a fence during a race, comedic pratfalls and exaggerated facial expressions.",
+                "Pixel art cartoon of a horse mount in a fantasy game, 16-bit style with armor and a saddle, running through a medieval kingdom.",
+                "3D cartoon of a talking horse with a sarcastic personality (like Bojack Horseman), sitting on a couch and drinking coffee, realistic fur with cartoon proportions.",
+                "Anime-style cartoon of a magical horse with wings (pegasus), flying through the clouds with a young rider, vibrant colors and dynamic flight scenes.",
+                "Claymation cartoon of a farm horse pulling a cart, clay texture and slow, steady movements, rural farm background with clay animals.",
+                "Minimalist cartoon of a horse, simple curved lines for the body and legs, a small smile, monochromatic brown with a white blaze on its face.",
+                "Retro 1950s cartoon of a horse in a western, wearing a cowboy hat and chasing bandits, bold outlines and classic western color palette (browns, reds)."
+            ],
+            "house": [
+                "2D cartoon of a cozy gingerbread house with candy cane trim and a gumdrop roof, inhabited by cartoon elves, bright pink and green colors.",
+                "Animated cartoon of a haunted house with creaky doors and glowing windows, spooky but silly ghosts floating out, dark purples and greens with cartoon eyes.",
+                "Disney-style cartoon of a princess's castle (grand house), towering spires and a moat with swans, pink and gold accents, magical glow.",
+                "Looney Tunes-style cartoon of a tiny house that expands to giant size when a character enters, comedic proportions and wacky physics.",
+                "Pixel art cartoon of a house in a retro video game, 8-bit style with a pixelated roof and windows, part of a village level in a RPG.",
+                "3D cartoon of a futuristic house with floating rooms and robotic cleaners, sleek white design and neon blue accents, high-tech gadgets.",
+                "Anime-style cartoon of a traditional Japanese house (ryokan), sliding doors and a zen garden, soft pastels and cherry blossom petals falling.",
+                "Claymation cartoon of a handmade house with a clay roof and walls, a small garden with clay flowers, inhabited by claymation family.",
+                "Minimalist cartoon of a house, simple square and triangle shapes, a tiny chimney with a wisp of smoke, monochromatic white with a blue door.",
+                "Retro 1960s cartoon of a suburban house with a white picket fence, a cartoon family barbecuing in the yard, bold flat colors and simple lines."
+            ],
+            "person": [
+                "2D cartoon of a cheerful young person with messy brown hair, wearing a hoodie and sneakers, skateboarding through a park, big smile and expressive eyes.",
+                "Animated cartoon of a grumpy old person with a white beard, shaking a fist at kids in a park, comedic exaggerated grumpiness, grey clothes and hunched posture.",
+                "Disney-style cartoon of a brave person (hero) with a cape, standing on a cliff and looking out at a kingdom, determined expression and vibrant costume.",
+                "Looney Tunes-style cartoon of a clumsy person tripping over a banana peel, flying through the air with comedic sound effects, exaggerated limbs.",
+                "Pixel art cartoon of a person character in a retro RPG, 8-bit style with armor and a sword, fighting monsters in a dungeon, bright pixel colors.",
+                "3D cartoon of a busy person in an office, juggling papers and talking on a phone, exaggerated movements and comedic stress expressions, realistic textures with cartoon proportions.",
+                "Anime-style cartoon of a school person (student) with big eyes and colorful hair, rushing to class with a backpack, dynamic running pose and sparkles.",
+                "Claymation cartoon of a family of people having a picnic, clay textures and slow, gentle movements, laughing and eating clay sandwiches.",
+                "Minimalist cartoon of a person, simple circle head and stick body, a tiny smile and hands in pockets, monochromatic black on white.",
+                "Retro 1980s cartoon of a cool person with big hair and neon clothes, dancing to synth-pop music, bold outlines and bright pink/blue colors."
+            ]
+        },
+        "sketch": {
+            "dog": [
+                "Minimalist pencil sketch of a dog, simple outline of its body and a wagging tail, no shading, clean lines on white paper.",
+                "Detailed charcoal sketch of a dog's face, intricate shading of fur around the eyes and nose, realistic texture and depth.",
+                "Quick pen sketch of a dog running, dynamic lines capturing movement, sketchy and energetic, minimal details.",
+                "Cross-hatching sketch of a dog lying down, using cross-hatching techniques to create shading and volume in its fur, black ink on textured paper.",
+                "Contour line sketch of a dog, single continuous line forming the entire body, no lifting the pen, expressive and fluid lines.",
+                "Chalk sketch of a dog on black paper, white chalk creating contrast, soft blending for fur texture, simple background of a lawn.",
+                "Sketchbook doodle of a dog, cartoonish outline with big eyes and a smile, quick and playful, pencil with a touch of colored pencil for the collar.",
+                "Realistic pencil sketch of a puppy, detailed shading of its soft fur, small paws and big head, innocent expression, light background.",
+                "Abstract sketch of a dog, fragmented lines and geometric shapes capturing its essence, black ink with bold, angular strokes.",
+                "Wash sketch (ink + water) of a dog, light water wash over ink lines to create soft shading, gentle lines for a calm dog sitting by a window."
+            ],
+            "elephant": [
+                "Minimalist pencil sketch of an elephant, simple outline of its large body and curled trunk, clean lines with no shading, focus on form.",
+                "Detailed charcoal sketch of an elephant's skin, intricate texture of wrinkles and creases, shading to emphasize depth and volume.",
+                "Quick pen sketch of an elephant walking, dynamic lines for its legs and swinging trunk, sketchy and energetic, minimal background.",
+                "Cross-hatching sketch of an elephant, dense cross-hatching for the body and lighter for the ears, creating contrast and texture, black ink on paper.",
+                "Contour line sketch of an elephant, single continuous line forming the entire animal, capturing the curve of its back and trunk in one fluid motion.",
+                "Chalk sketch of an elephant on black paper, white and grey chalk blending to create the shape of its body, bright highlights on its tusks.",
+                "Sketchbook doodle of a baby elephant, cartoonish outline with big floppy ears and a small trunk, playful and quick pencil lines, pink chalk for cheeks.",
+                "Realistic pencil sketch of an elephant herd, distant elephants with minimal detail, foreground elephant with detailed shading of its head and tusks.",
+                "Abstract sketch of an elephant, bold, angular lines breaking down its form into geometric shapes, black ink with varying line thickness.",
+                "Wash sketch of an elephant, light grey water wash over ink lines, soft shading for its skin, simple background of a savanna horizon."
+            ],
+            "giraffe": [
+                "Minimalist pencil sketch of a giraffe, simple vertical lines for its neck and body, small head with a tiny horn, clean and uncluttered lines.",
+                "Detailed charcoal sketch of a giraffe's neck and head, intricate shading of its spotted pattern, texture of fur on its ossicones, deep contrast.",
+                "Quick pen sketch of a giraffe eating leaves, dynamic lines for its stretched neck and reaching tongue, sketchy and spontaneous, minimal details.",
+                "Cross-hatching sketch of a giraffe, cross-hatching within its spots to create depth, lighter hatching for the background, black ink on textured paper.",
+                "Contour line sketch of a giraffe, single continuous line capturing its tall, slender form, curve of its neck and legs in one unbroken stroke.",
+                "Chalk sketch of a giraffe on black paper, white chalk for the body and brown chalk for the spots, soft blending for a smooth texture.",
+                "Sketchbook doodle of a baby giraffe, cartoonish outline with short legs and a big head, playful pencil lines, a touch of yellow chalk for color.",
+                "Realistic pencil sketch of a giraffe in the savanna, detailed shading of its body, background with simple lines for grass and trees, focus on the giraffe.",
+                "Abstract sketch of a giraffe, fragmented lines and splatters of ink, capturing the height and movement of the animal, bold and expressive strokes.",
+                "Wash sketch of a giraffe, light yellow water wash over ink lines, soft shading for its spots, simple sky background with light blue wash."
+            ],
+            "guitar": [
+                "Minimalist pencil sketch of a guitar, simple outline of its body and neck, no shading, focus on the instrument's basic shape and proportions.",
+                "Detailed charcoal sketch of a guitar's body, intricate shading of wood grain and metal strings, texture of the frets and tuning pegs, deep contrast.",
+                "Quick pen sketch of a guitar being played, dynamic lines for the hands and the guitar, sketchy and energetic, capturing movement of strumming.",
+                "Cross-hatching sketch of a guitar, cross-hatching for the wooden body to create depth, lighter hatching for the strings, black ink on paper.",
+                "Contour line sketch of a guitar, single continuous line forming the entire instrument, capturing the curve of the body and straight neck in one stroke.",
+                "Chalk sketch of a guitar on black paper, white chalk for the body and silver chalk for the strings, bright highlights on the metal parts.",
+                "Sketchbook doodle of a cartoon guitar, big googly eyes and a smile, quick pencil lines, a touch of red colored pencil for the body.",
+                "Realistic pencil sketch of a vintage guitar, detailed shading of worn wood and rusted tuning pegs, capturing the age and character of the instrument.",
+                "Abstract sketch of a guitar, bold, broken lines and ink splatters, capturing the energy of music, varying line thickness and texture.",
+                "Wash sketch of a guitar, light brown water wash over ink lines to simulate wood grain, soft shading for the body, simple background of a music stand."
+            ],
+            "horse": [
+                "Minimalist pencil sketch of a horse, simple outline of its body and legs, a flowing mane suggested with a few lines, clean and minimal shading.",
+                "Detailed charcoal sketch of a horse's head, intricate shading of its mane and facial features, realistic texture of fur and leather bridle.",
+                "Quick pen sketch of a horse galloping, dynamic lines capturing movement of its legs and mane, sketchy and spontaneous, minimal background details.",
+                "Cross-hatching sketch of a horse, cross-hatching for the body to create volume, lighter hatching for the mane, black ink on textured paper.",
+                "Contour line sketch of a horse, single continuous line forming the entire animal, capturing the curve of its back and legs in one fluid motion.",
+                "Chalk sketch of a horse on black paper, white and grey chalk blending to create the shape of its body, bright highlights on its mane and tail.",
+                "Sketchbook doodle of a pony, cartoonish outline with a short mane and tail, playful pencil lines, a touch of brown chalk for color.",
+                "Realistic pencil sketch of a horse in a field, detailed shading of its body, simple lines for the grass and sky, focus on the horse's posture.",
+                "Abstract sketch of a horse, bold, angular lines breaking down its form into geometric shapes, black ink with varying line weight for emphasis.",
+                "Wash sketch of a horse, light grey water wash over ink lines, soft shading for its body, simple background of a fence and field with light green wash."
+            ],
+            "house": [
+                "Minimalist pencil sketch of a house, simple square for the body and triangle for the roof, a tiny door and window, no shading, clean lines.",
+                "Detailed charcoal sketch of a house's facade, intricate shading of brick texture, window frames and roof tiles, deep contrast and depth.",
+                "Quick pen sketch of a house in a village, dynamic lines capturing the shape of the roof and chimney, sketchy and energetic, minimal details of surrounding houses.",
+                "Cross-hatching sketch of a house, cross-hatching for the roof to create texture, lighter hatching for the walls, black ink on paper.",
+                "Contour line sketch of a house, single continuous line forming the entire structure, capturing the curve of the roof and straight lines of the walls in one stroke.",
+                "Chalk sketch of a house on black paper, white chalk for the walls and grey chalk for the roof, bright highlights on the windows (suggesting light inside).",
+                "Sketchbook doodle of a cartoon house, big round windows and a smiling door, quick pencil lines, a touch of blue chalk for the roof.",
+                "Realistic pencil sketch of a country house, detailed shading of its wooden walls and thatched roof, background with simple lines for trees and a path.",
+                "Abstract sketch of a house, fragmented lines and geometric shapes breaking down the structure, black ink with bold, expressive strokes.",
+                "Wash sketch of a house, light beige water wash over ink lines to simulate stone walls, soft shading for the roof, simple sky background with light blue wash."
+            ],
+            "person": [
+                "Minimalist pencil sketch of a person, simple circle head and stick body, a tiny smile and hands in pockets, clean lines with no shading.",
+                "Detailed charcoal sketch of a person's face, intricate shading of facial features, wrinkles and hair texture, deep contrast and realistic expression.",
+                "Quick pen sketch of a person walking down a street, dynamic lines capturing movement of legs and arms, sketchy and spontaneous, minimal background details.",
+                "Cross-hatching sketch of a person, cross-hatching for clothing to create texture, lighter hatching for skin, black ink on textured paper.",
+                "Contour line sketch of a person, single continuous line forming the entire body, capturing posture and movement in one fluid stroke, no lifting the pen.",
+                "Chalk sketch of a person on black paper, white chalk for the body and grey chalk for shading, bright highlights on the face and hair.",
+                "Sketchbook doodle of a cartoon person, big eyes and a goofy smile, quick pencil lines, a touch of colored pencil for the shirt.",
+                "Realistic pencil sketch of a person sitting in a chair, detailed shading of their clothing and posture, simple lines for the chair and background, focus on facial expression.",
+                "Abstract sketch of a person, bold, broken lines and ink splatters, capturing emotion and movement, varying line thickness and texture.",
+                "Wash sketch of a person, light skin-tone water wash over ink lines, soft shading for clothing, simple background of a wall with light grey wash."
+            ]
+        }
+    }
+}

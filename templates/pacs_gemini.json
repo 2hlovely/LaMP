@@ -1,0 +1,348 @@
+{
+  "pacs_domain_class_descriptions": {
+    "photo": {
+      "dog": [
+        "A sharp, high-resolution photograph of a golden retriever playing on the grass.",
+        "A close-up shot of a fluffy puppy looking directly into the camera lens.",
+        "A real-life image of a German Shepherd guarding a backyard.",
+        "A candid picture of a small dog running on a sandy beach.",
+        "A crisp photograph capturing a dog catching a frisbee mid-air.",
+        "A detailed studio portrait of a French bulldog sitting on a white background.",
+        "A realistic image of a husky with bright blue eyes in the snow.",
+        "A street photograph of a stray dog walking down a city sidewalk.",
+        "A clear photo of a dalmatian with distinct black spots lying on a rug.",
+        "A daytime snapshot of a family dog sleeping curled up on a sofa."
+      ],
+      "elephant": [
+        "A wildlife photograph of a massive African elephant walking through the savanna.",
+        "A close-up real image focusing on the textured skin and trunk of an elephant.",
+        "A photo of a mother elephant and her calf standing near a watering hole.",
+        "A sharp picture of an Asian elephant walking through a dense tropical jungle.",
+        "A clear daylight shot of an elephant spraying water over its back.",
+        "A travel photograph capturing a herd of elephants migrating across the plains.",
+        "A detailed image of a majestic bull elephant with large tusks.",
+        "A realistic photograph of an elephant dust-bathing under the bright sun.",
+        "A snapshot of an elephant interacting with researchers in a sanctuary.",
+        "A clear, wide-angle shot of a lone elephant silhouetted against the sunset."
+      ],
+      "giraffe": [
+        "A full-length photograph of a tall giraffe eating leaves from a high acacia tree.",
+        "A crisp close-up shot of a giraffe's head and its distinct patterned neck.",
+        "A wildlife photo of two giraffes standing together in the African grassland.",
+        "A sharp image capturing a giraffe bending down its long neck to drink water.",
+        "A real picture of a baby giraffe walking beside its mother in a sunny field.",
+        "A detailed photograph showing the unique spotted coat texture of a giraffe.",
+        "A daylight shot of a giraffe walking past safari vehicles.",
+        "A beautiful photograph of a giraffe silhouette against a bright blue sky.",
+        "A close-up photo of a giraffe looking curiously toward the safari camera.",
+        "A wide shot of several giraffes roaming across an open nature reserve."
+      ],
+      "guitar": [
+        "A studio photograph of a classic acoustic guitar resting against a wooden wall.",
+        "A sharp close-up shot of a musician's fingers pressing strings on a guitar fretboard.",
+        "A glossy photo of a sleek black electric guitar under bright stage lighting.",
+        "A realistic image of a vintage bass guitar sitting in its hard case.",
+        "A high-resolution photograph focusing on the soundhole and bridge of a wooden guitar.",
+        "A picture of a guitar leaning on a chair in a dimly lit recording studio.",
+        "A detailed photo of a classical nylon-string guitar reflecting soft ambient light.",
+        "A candid daytime shot of a street performer playing an old acoustic guitar.",
+        "A crisp product image of a brand new electric guitar on a white background.",
+        "A close-up photograph highlighting the polished grain of a premium acoustic guitar."
+      ],
+      "horse": [
+        "A sharp action photograph of a brown stallion galloping across an open meadow.",
+        "A close-up portrait of a majestic white horse with a well-groomed mane.",
+        "A real-life image of a horse standing peacefully by a wooden fence in a pasture.",
+        "A dynamic photo capturing a horse and its rider clearing a hurdle in a show jumping event.",
+        "A detailed shot of a black horse grazing on green grass under the morning sun.",
+        "A travel photograph of wild horses running through a dusty desert landscape.",
+        "A crisp picture of a mare and her young foal standing together in a paddock.",
+        "A realistic photo focusing on the powerful muscles and glossy coat of a racehorse.",
+        "A snapshot of a farm horse being led by its halter on a sunny afternoon.",
+        "A beautiful wide shot of horses running along the coastline at sunset."
+      ],
+      "house": [
+        "A real estate photograph of a modern two-story suburban house with a neat lawn.",
+        "A sharp daytime picture of a charming brick cottage surrounded by colorful flowers.",
+        "A high-resolution photo of a luxury villa with a swimming pool in the foreground.",
+        "A realistic image of a rustic log cabin nestled deep in a pine forest.",
+        "A wide shot of a traditional townhouse standing along a quiet city street.",
+        "A clear photograph of a beachfront house with large glass windows facing the ocean.",
+        "A crisp image of a classic American farmhouse with a spacious front porch.",
+        "A bright afternoon shot of a minimalist concrete house under a clear sky.",
+        "A detailed photo focusing on the architectural facade and front door of a home.",
+        "A scenic photograph of a snow-covered mountain cabin with glowing windows at dusk."
+      ],
+      "person": [
+        "A professional studio portrait of a smiling woman looking directly at the camera.",
+        "A candid street photograph of a man walking down a busy urban sidewalk.",
+        "A sharp action shot of an athlete sprinting on a professional running track.",
+        "A real-life image of a chef preparing food in a brightly lit commercial kitchen.",
+        "A close-up photo of an elderly person's face highlighting expressive wrinkles.",
+        "A crisp picture of a student sitting at a desk studying with a laptop.",
+        "A realistic photograph of a child laughing while playing with bubbles in a park.",
+        "A daytime shot of a businessman in a suit talking on a phone outside an office.",
+        "A detailed photo of a doctor in a white coat holding a medical clipboard.",
+        "A candid snapshot of a group of friends taking a selfie together in a café."
+      ]
+    },
+    "art_painting": {
+      "dog": [
+        "An oil painting of a classical hunting dog resting by a fireplace in a grand hall.",
+        "An impressionistic canvas art piece depicting a playful dog made of vibrant brushstrokes.",
+        "A surrealist painting of a floating dog surrounded by abstract colorful shapes.",
+        "A traditional watercolor painting of a loyal golden retriever sitting in a field.",
+        "A thick impasto painting showing a textured portrait of a small bulldog.",
+        "A baroque style art piece featuring a noble dog sitting next to its owner.",
+        "An abstract acrylic painting representation of a running dog with bold lines.",
+        "A Renaissance style painting portraying a small lap dog on a velvet cushion.",
+        "An expressionist artwork capturing the dynamic movement of a barking dog.",
+        "A classic fine art painting of a pack of hounds during an autumn countryside hunt."
+      ],
+      "elephant": [
+        "A majestic oil painting of an elephant herd crossing a river under a dramatic sky.",
+        "An abstract canvas painting representing an elephant using geometric shapes and gold foil.",
+        "A colorful watercolor art piece of an elephant spraying multi-colored paint from its trunk.",
+        "An impressionist painting depicting an elephant walking through a hazy, sunlit jungle.",
+        "A traditional Asian silk painting of a decorated ceremonial elephant.",
+        "A surreal painting of an elephant with elongated, spindly legs walking across a desert.",
+        "A rustic textured acrylic painting focusing on the powerful silhouette of an elephant.",
+        "A fine art gallery painting portraying a grand elephant in a classical landscape setting.",
+        "An expressionist painting using heavy brushstrokes to capture a charging elephant.",
+        "A decorative wall art painting of a stylized elephant adorned with intricate patterns."
+      ],
+      "giraffe": [
+        "An oil canvas painting of a graceful giraffe extending its neck toward abstract clouds.",
+        "A vivid watercolor painting capturing a giraffe drinking water with soft blended colors.",
+        "An impressionistic art piece depicting a giraffe standing amidst tall, colorful trees.",
+        "A cubist painting breaking down the shape of a giraffe into sharp geometric facets.",
+        "A stylized modern acrylic painting of a giraffe with vibrant, unconventional spots.",
+        "A classic portrait painting of a giraffe rendered in fine art museum style.",
+        "An abstract expressionist painting depicting the long vertical form of a giraffe.",
+        "A surrealist painting of a giraffe whose spots are made of twinkling stars.",
+        "A textured palette knife painting showing a close-up of a giraffe's patterned coat.",
+        "A traditional landscape painting with a group of giraffes resting under a warm sunset."
+      ],
+      "guitar": [
+        "A classic cubist oil painting depicting a disassembled guitar in the style of Picasso.",
+        "A still-life oil painting of an acoustic guitar resting next to a vase of flowers.",
+        "An abstract acrylic art piece with a guitar shape emerging from chaotic paint splatters.",
+        "A vibrant watercolor painting of an electric guitar surrounded by flowing musical notes.",
+        "An impressionist canvas painting capturing a guitar leaning against an open window.",
+        "A surrealist painting of a guitar melting into waves of water on a beach.",
+        "A vintage style textured painting focusing on the classic curves of a wooden guitar.",
+        "An expressionist artwork representing the raw energy of an electric guitar performance.",
+        "A fine art painting of a classical guitar sitting on a draped velvet cloth.",
+        "A pop-art inspired painting of a guitar with bold outlines and bright contrasting colors."
+      ],
+      "horse": [
+        "A classic oil painting depicting a powerful war horse rearing up in battle.",
+        "An impressionistic painting of wild horses running free through a misty field.",
+        "A traditional Chinese ink wash painting capturing the fluid motion of a galloping horse.",
+        "A detailed Renaissance style canvas painting of a noble knight riding a white horse.",
+        "An abstract painting of a horse composed of sweeping dynamic brushstrokes and bold lines.",
+        "A watercolor art piece depicting a gentle horse grazing in a dreamlike pastel meadow.",
+        "A surrealist painting of a horse with wings soaring through a starry night sky.",
+        "A thick palette knife acrylic painting showcasing the strong textured form of a stallion.",
+        "An expressionist painting capturing the wild, untamed spirit of a running horse.",
+        "A fine art museum painting of horses resting under a shade tree in the countryside."
+      ],
+      "house": [
+        "An oil painting of a cozy cottage nestled in a vibrant, blooming country garden.",
+        "An impressionistic landscape painting depicting houses along a river with shimmering reflections.",
+        "A watercolor artwork of a charming old European house on a cobblestone street.",
+        "An abstract painting reducing a suburban house into simple blocks of bold color.",
+        "A surrealist art piece showing a house floating whimsically among fluffy clouds.",
+        "A rustic folk art painting of a traditional red barn house in an autumn field.",
+        "An expressionist painting of city townhouses with dramatic angles and moody colors.",
+        "A fine art painting depicting a grand colonial mansion surrounded by ancient oak trees.",
+        "A cubist interpretation of a village house with overlapping geometric planes.",
+        "A textured acrylic painting of a lonely lighthouse keeper's house on a rocky cliff."
+      ],
+      "person": [
+        "A classic oil portrait painting of a noble lady dressed in elegant historical attire.",
+        "An impressionistic painting of people strolling through a sun-drenched Parisian park.",
+        "An abstract portrait of a person with displaced features and vivid, emotional colors.",
+        "A watercolor artwork depicting a solitary person walking down a rainy city street.",
+        "A expressionist painting capturing the intense facial expression of a deep thinker.",
+        "A fine art canvas painting of a classical musician playing an instrument.",
+        "A Renaissance style painting portraying a scholar surrounded by old books and scrolls.",
+        "A cubist painting of a seated person constructed from interlocking geometric shapes.",
+        "A modern acrylic painting of a dancer captured in a fluid, energetic pose.",
+        "A surrealist painting of a person whose silhouette blends into a starry night landscape."
+      ]
+    },
+    "cartoon": {
+      "dog": [
+        "A colorful 2D vector cartoon of a happy dog wagging its tail with oversized eyes.",
+        "An animated style illustration of a detective dog wearing a trench coat and holding a magnifying glass.",
+        "A cute cartoon puppy with giant ears sitting down and smiling playfully.",
+        "A digital cartoon drawing of a superhero dog wearing a bright red cape.",
+        "A funny cartoon panel showing a dog chasing its own tail with motion lines.",
+        "A classic Saturday-morning cartoon style dog laughing with its tongue sticking out.",
+        "A 3D animated character design of a fluffy dog standing on its hind legs.",
+        "A simple clip-art cartoon of a spotted dog holding a bone in its mouth.",
+        "A whimsical cartoon illustration of a dog sleeping on top of a red doghouse.",
+        "A stylized anime-style cartoon dog with large expressive anime eyes."
+      ],
+      "elephant": [
+        "A cute cartoon elephant blowing heart-shaped bubbles from its trunk.",
+        "A 2D animated style illustration of a cheerful baby elephant sitting on a cloud.",
+        "A funny cartoon elephant trying to hide behind a tiny tree trunk.",
+        "A brightly colored vector art of an elephant wearing a circus hat.",
+        "A cartoon character design of an elephant dressed up as a scholarly professor.",
+        "A whimsical illustration of a friendly cartoon elephant flying with oversized ears.",
+        "A simple flat-design cartoon of an elephant walking happily with a smile.",
+        "A comic book style cartoon elephant stampeding with comical dust clouds.",
+        "A 3D style animated elephant character waving its trunk forward.",
+        "A cute cartoon elephant sitting down and holding a single flower."
+      ],
+      "giraffe": [
+        "A funny cartoon giraffe with an extremely long, zig-zag neck looking down.",
+        "A cute vector illustration of a baby giraffe wearing a colorful striped scarf.",
+        "A 2D animated character of a giraffe wearing cool sunglasses and smiling.",
+        "A whimsical cartoon giraffe trying to fit inside a standard-sized house.",
+        "A simple, brightly colored cartoon giraffe standing against a basic blue background.",
+        "An adorable cartoon giraffe eating a giant green leaf with a cheerful expression.",
+        "A stylized comic book drawing of a giraffe dancing on its long legs.",
+        "A 3D animated style giraffe character peeking out from behind a jungle bush.",
+        "A cute flat-art cartoon of a spotted giraffe sitting down cross-legged.",
+        "A funny cartoon scene of a giraffe looking confused while tangled in tree branches."
+      ],
+      "guitar": [
+        "A lively cartoon drawing of an electric guitar with eyes and a wide smiling mouth.",
+        "A colorful 2D vector clip-art of an acoustic guitar surrounded by cartoon spark effects.",
+        "An animated style illustration of a rockstar cartoon character smashing a guitar.",
+        "A cute, simplified cartoon guitar with short stubby strings and bright colors.",
+        "A funny comic strip panel showing a guitar floating with angel wings.",
+        "A stylized cartoon electric guitar glowing with neon green lightning bolts.",
+        "A 3D animated prop design of a wooden acoustic guitar with a glossy finish.",
+        "A whimsical cartoon drawing of a tiny mouse playing a guitar that is bigger than it.",
+        "A flat-design cartoon vector of a guitar leaning against a colorful music note.",
+        "A bold-outlined cartoon guitar emitting bright rainbow-colored sound waves."
+      ],
+      "horse": [
+        "A cute cartoon horse galloping happily with a flowing purple mane and tail.",
+        "A funny cartoon stallion wearing cowboy boots and a matching cowboy hat.",
+        "A 2D vector illustration of a smiling horse peeking over a stable door.",
+        "A whimsical cartoon horse with oversized eyes laughing hysterically.",
+        "An animated character design of a sleek racehorse running with a determined look.",
+        "A simple flat-art cartoon of a friendly brown pony sitting in a green field.",
+        "A comic book style cartoon horse startled with its eyes popping out comically.",
+        "A 3D style animated horse character standing upright and waving a hoof.",
+        "A cute, stylized cartoon unicorn horse with a glowing horn and star sparkles.",
+        "A bold cartoon drawing of a wild horse running with dramatic wind lines."
+      ],
+      "house": [
+        "A whimsical cartoon house with a curved roof, a crooked chimney, and a smiling face.",
+        "A brightly colored 2D vector illustration of a cozy cartoon suburban home.",
+        "A cute cartoon gingerbread house decorated with colorful candies and icing.",
+        "An animated style illustration of a spooky haunted house with glowing yellow windows.",
+        "A simple flat-design cartoon house with a red roof, green door, and neat picket fence.",
+        "A funny comic book drawing of a house leaning sideways due to a strong wind.",
+        "A 3D animated movie style house floating in the air held by colorful balloons.",
+        "A cute cartoon treehouse nestled in the branches of a large smiling tree.",
+        "A stylized vector cartoon of a futuristic dome-shaped house with antennas.",
+        "A charming cartoon cottage with puffing smoke coming out of its chimney in a spiral."
+      ],
+      "person": [
+        "A cheerful cartoon boy waving his hand with oversized expressive eyes.",
+        "A 2D vector illustration of a female cartoon superhero striking a powerful pose.",
+        "A funny comic strip character of a businessman running late with sweat drops flying.",
+        "A cute chibi-style cartoon character of a girl with giant hair and a big smile.",
+        "An animated style character design of a wise old wizard with a long flowing beard.",
+        "A simple flat-art cartoon of a doctor holding a clipboard with a friendly smile.",
+        "A bold-outlined cartoon chef holding up a plate with a silver dome cover.",
+        "A 3D animated style character of an astronaut floating happily in space.",
+        "A whimsical cartoon illustration of a kid wearing a dinosaur costume.",
+        "A funny cartoon character getting a bright idea with a glowing lightbulb over their head."
+      ]
+    },
+    "sketch": {
+      "dog": [
+        "A rough pencil sketch showing the quick outlines and proportions of a sitting dog.",
+        "A detailed graphite drawing of a dog's face with intricate shading on the fur.",
+        "A minimalist line art sketch of a greyhound captured in a running pose.",
+        "A quick charcoal sketch of a playful puppy with loose, energetic strokes.",
+        "An ink pen sketch of a bulldog highlighting its wrinkled skin with cross-hatching.",
+        "A conceptual gesture sketch of a dog fetching a stick with dynamic lines.",
+        "A monochrome pencil portrait of a German Shepherd focusing on form and shadow.",
+        "A simple blueprint-like sketch detailing the anatomy of a standing dog.",
+        "A rough hand-drawn sketch of a small terrier dog looking up curiously.",
+        "A fine-lined ink sketch of a sleeping dog curled up on a plain background."
+      ],
+      "elephant": [
+        "A grand charcoal sketch capturing the massive silhouette and texture of an elephant.",
+        "A quick pencil gesture drawing illustrating an elephant walking forward.",
+        "A detailed ink sketch focusing on the deep wrinkles of an elephant's trunk.",
+        "A minimalist single-line drawing outlining the shape of a majestic elephant.",
+        "A rough graphite sketch of an elephant herd moving across a plain background.",
+        "A cross-hatched pen sketch defining the heavy legs and tusks of an elephant.",
+        "A hand-drawn pencil study analyzing the anatomical structure of an elephant.",
+        "A loose, smoky charcoal sketch of an elephant dust-bathing under faint light.",
+        "A clean technical sketch of an elephant showing precise contours and proportions.",
+        "A quick sketchbook drawing of a baby elephant standing close to its mother."
+      ],
+      "giraffe": [
+        "A tall pencil sketch capturing the elegant vertical line of a giraffe's neck.",
+        "A detailed ink pen sketch highlighting the irregular spot patterns of a giraffe.",
+        "A quick gesture drawing in charcoal showing a giraffe bending down to drink.",
+        "A minimalist outline sketch depicting the distinct silhouette of a standing giraffe.",
+        "A rough graphite sketch of a giraffe head profile focusing on the ears and ossicones.",
+        "A cross-hatched ink illustration outlining the form of two giraffes together.",
+        "A loose sketchbook drawing of a giraffe walking with light pencil shading.",
+        "A fine-line art piece mapping out the geometric structure of a giraffe's body.",
+        "A charcoal study capturing the shadows on a giraffe's neck under overhead lighting.",
+        "A quick scribbled art sketch capturing the essence of a giraffe roaming the wild."
+      ],
+      "guitar": [
+        "A precise pencil sketch detailing the symmetry and strings of an acoustic guitar.",
+        "A rough charcoal sketch of an electric guitar leaning against a shaded wall.",
+        "A minimalist line drawing tracing the elegant contours of a classical guitar.",
+        "An ink pen sketch of a guitar fretboard utilizing cross-hatching for deep shadows.",
+        "A quick hand-drawn graphite scribble of a guitar sitting on a stand.",
+        "A detailed technical sketch showing the components of a guitar from a front view.",
+        "A loose, artistic sketch of a guitar breaking apart into abstract musical waves.",
+        "A pencil drawing study focusing on the reflection of light on a polished guitar body.",
+        "An architectural-style fine line sketch of a vintage electric guitar design.",
+        "A quick ink outline sketch of a guitar body with minimal interior detail."
+      ],
+      "horse": [
+        "A powerful charcoal sketch capturing the muscular tension of a rearing horse.",
+        "A quick pencil gesture drawing showing the fluid lines of a galloping horse.",
+        "A detailed graphite pencil sketch highlighting the fine hairs of a horse's mane.",
+        "A minimalist line art sketch tracing the graceful silhouette of a standing horse.",
+        "An ink pen sketch using cross-hatching to define the strong anatomy of a stallion.",
+        "A rough sketchbook drawing of a mare and foal with loose, expressive lines.",
+        "A classic fine-line study focusing on the detailed structure of a horse's head.",
+        "A dynamic charcoal sketch of wild horses running through a storm of dust lines.",
+        "A clean pencil outline of a racehorse sprinting with minimal shading.",
+        "A scribbled ink sketch capturing the rapid movement of a jumping horse."
+      ],
+      "house": [
+        "An architectural pencil sketch detailing the facade and windows of a suburban house.",
+        "A rough charcoal drawing of an old abandoned house with dramatic shadows.",
+        "A clean ink line sketch showing a minimalist modern house with sharp angles.",
+        "A quick perspective sketch of a country cottage with a simple smoking chimney.",
+        "A hand-drawn graphite sketch focusing on the textured roof tiles of a farmhouse.",
+        "A minimalist outline sketch of a simple house with a triangular roof and a door.",
+        "A detailed pen drawing of a historic townhouse utilizing cross-hatch shading.",
+        "A quick sketchbook scribble of a cabin in the woods surrounded by basic tree lines.",
+        "An engineering-style technical sketch showing the front elevation of a basic house.",
+        "A loose, artistic charcoal sketch of a beach house sitting on a windswept hill."
+      ],
+      "person": [
+        "A quick pencil gesture sketch capturing the dynamic pose of a person walking.",
+        "A detailed graphite portrait sketch focusing on the realistic shading of a human face.",
+        "A minimalist continuous-line drawing outlining the elegant silhouette of a person.",
+        "A rough charcoal figure drawing capturing the proportions of a seated model.",
+        "An ink pen sketch mapping out the anatomy and muscle structure of an athlete.",
+        "A quick sketchbook scribble of a person reading a book in a coffee shop.",
+        "A cross-hatched ink portrait highlighting expressive eyes and facial structure.",
+        "A loose pencil sketch capturing a person in mid-motion while dancing.",
+        "A fine-line architectural scale sketch of a generic human figure standing upright.",
+        "A moody charcoal portrait drawing capturing the stark contrast of light and shadow on a face."
+      ]
+    }
+  }
+}
