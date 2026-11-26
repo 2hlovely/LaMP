@@ -3,23 +3,11 @@ import os.path as osp
 from dassl.utils import listdir_nohidden
 from ..build import DATASET_REGISTRY
 from ..base_dataset import Datum, DatasetBase, Datum_sf
-from .digits_dg import DigitsDG
 
 
 @DATASET_REGISTRY.register()
 class OfficeHomeDG_SF(DatasetBase):
-    """Office-Home.
 
-    Statistics:
-        - Around 15,500 images.
-        - 65 classes related to office and home objects.
-        - 4 domains: Art, Clipart, Product, Real World.
-        - URL: http://hemanthdv.org/OfficeHome-Dataset/.
-
-    Reference:
-        - Venkateswara et al. Deep Hashing Network for Unsupervised
-        Domain Adaptation. CVPR 2017.
-    """
 
     dataset_dir = "office_home_dg"
     domains = ["none", "art", "clipart", "product", "real_world"]
@@ -71,9 +59,9 @@ class OfficeHomeDG_SF(DatasetBase):
                 val_dir = osp.join(dataset_dir, dname, "val")
                 train_items = _load_data_from_directory(train_dir)
                 val_items = _load_data_from_directory(val_dir)
-                # Source-free evaluation uses every image in the target domain.
-                # The OfficeHome layout calls the held-out partition "val", so
-                # both directories must be combined to cover the full dataset.
+
+
+
                 impath_label_list = train_items + val_items
             else:
                 raise ValueError("Unsupported OfficeHome split: {}".format(split))

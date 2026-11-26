@@ -1,0 +1,20 @@
+# Suggested Python 3.10 environment; not an experimentally verified lockfile.
+torch==2.2.2
+torchvision==0.17.2
+numpy>=1.23,<2
+Pillow>=9.0,<10
+yacs>=0.1.8
+tabulate>=0.8.9
+tqdm>=4.64
+gdown>=5.0
+PyYAML>=6.0
+tensorboard>=2.10
+scipy>=1.9
+scikit-learn>=1.1
+pandas>=1.5,<3
+einops>=0.6
+wilds>=2.0
+ftfy>=6.1
+regex
+# OpenAI CLIP (the PyPI package named "clip" is a different project).
+clip @ git+https://github.com/openai/CLIP.git

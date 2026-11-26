@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd ..
+cd "$(dirname "${BASH_SOURCE[0]}")/.." || exit 1
 
 DATASET_ROOT=/root/sj-tmp/Data4DG
 DATASET=vlcs

@@ -9,15 +9,7 @@ from ..base_dataset import Datum, DatasetBase, Datum_sf
 
 @DATASET_REGISTRY.register()
 class VLCS_SF(DatasetBase):
-    """VLCS.
 
-    Statistics:
-        - 4 domains: CALTECH, LABELME, PASCAL, SUN
-        - 5 categories: bird, car, chair, dog, and person.
-
-    Reference:
-        - Torralba and Efros. Unbiased look at dataset bias. CVPR 2011.
-    """
 
     dataset_dir = "VLCS"
     domains = ["none", "CALTECH", "LABELME", "PASCAL", "SUN"]
@@ -37,7 +29,7 @@ class VLCS_SF(DatasetBase):
 
         test_datasets = []
         for domain in cfg.DATASET.TARGET_DOMAINS:
-            test_datasets.append(self._read_data([domain], "test"))
+            test_datasets.append(self._read_data([domain], "all"))
         train = self._read_train_data(train_data)
 
         super().__init__(train_x=train, test=test_datasets)
@@ -47,16 +39,19 @@ class VLCS_SF(DatasetBase):
 
         for domain, dname in enumerate(input_domains):
             dname = dname.upper()
-            path = osp.join(self.dataset_dir, dname, split)
-            folders = listdir_nohidden(path)
-            folders.sort()
-
-            for label, folder in enumerate(folders):
-                impaths = glob.glob(osp.join(path, folder, "*.jpg"))
-
-                for impath in impaths:
-                    item = Datum(impath=impath, label=label, domain=domain)
-                    items.append(item)
+            splits = ["train", "crossval", "test"] if split == "all" else [split]
+            classnames = sorted(listdir_nohidden(osp.join(self.dataset_dir, dname, splits[0])))
+            for split_name in splits:
+                path = osp.join(self.dataset_dir, dname, split_name)
+                for label, folder in enumerate(classnames):
+                    impaths = sorted(glob.glob(osp.join(path, folder, "*.jpg")))
+                    for impath in impaths:
+                        items.append(Datum(
+                            impath=impath,
+                            label=label,
+                            domain=domain,
+                            classname=folder
+                        ))
 
         return items
 

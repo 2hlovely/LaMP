@@ -5,18 +5,12 @@ from ..base_dataset import Datum, DatasetBase, Datum_sf
 
 @DATASET_REGISTRY.register()
 class PACS_SF(DatasetBase):
-    """PACS.
-    Statistics:
-        - 4 domains: Photo (1,670), Art (2,048), Cartoon
-        (2,344), Sketch (3,929).
-        - 7 categories: dog, elephant, giraffe, guitar, horse,
-        house and person.
-    """
+
 
     dataset_dir = "pacs"
     domains = ["none", "art_painting", "cartoon", "photo", "sketch"]
     data_url = "https://drive.google.com/uc?id=1m4X4fROCCXMO0lRLrr6Zz9Vb3974NWhE"
-    # the following images contain errors and should be ignored
+
     _error_paths = ["sketch/dog/n02103406_4068-1.png"]
 
     def __init__(self, cfg, train_data):
@@ -34,7 +28,7 @@ class PACS_SF(DatasetBase):
         )
         test_datasets = []
         for domain in cfg.DATASET.TARGET_DOMAINS:
-            test_datasets.append(self._read_data([domain], "test"))
+            test_datasets.append(self._read_data([domain], "all"))
         train = self._read_train_data(train_data)
 
         super().__init__(train_x=train, test=test_datasets)
@@ -59,10 +53,18 @@ class PACS_SF(DatasetBase):
         items = []
 
         for domain, dname in enumerate(input_domains):
-            file = osp.join(
-                self.split_dir, dname + "_" + split + "_kfold.txt"
-            )
-            impath_label_list = self._read_split_pacs(file)
+            if split == "all":
+                files = [
+                    osp.join(self.split_dir, dname + "_train_kfold.txt"),
+                    osp.join(self.split_dir, dname + "_crossval_kfold.txt")
+                ]
+            else:
+                files = [osp.join(
+                    self.split_dir, dname + "_" + split + "_kfold.txt"
+                )]
+            impath_label_list = []
+            for file in files:
+                impath_label_list.extend(self._read_split_pacs(file))
 
             for impath, label in impath_label_list:
                 classname = impath.split("/")[-2]

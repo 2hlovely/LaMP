@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd ..
+cd "$(dirname "${BASH_SOURCE[0]}")/.." || exit 1
 
 DATASET_ROOT=/root/sj-tmp/Data4DG
 DATASET=pacs
@@ -11,8 +11,8 @@ BATCH=128
 NUM_WORKERS=4
 
 SEED=1
-I2_EPOCHS=100
-LOAD_EPOCH=100
+I2_EPOCHS=30
+LOAD_EPOCH=30
 
 if [ ${DATASET} = "pacs" ]; then
   D1=art_painting

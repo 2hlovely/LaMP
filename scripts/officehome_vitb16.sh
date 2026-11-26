@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd ..
+cd "$(dirname "${BASH_SOURCE[0]}")/.." || exit 1
 
 DATASET_ROOT=/root/sj-tmp/Data4DG
 DATASET=office_home_dg
@@ -11,8 +11,8 @@ BATCH=128
 NUM_WORKERS=4
 
 SEED=1
-I2_EPOCHS=100
-LOAD_EPOCH=100
+I2_EPOCHS=20
+LOAD_EPOCH=20
 
 if [ ${DATASET} = "office_home_dg" ]; then
   D1=art
@@ -87,6 +87,3 @@ PROMPT_DEPTH_TEXT=4
     TRAINER.LAMP.UOT_EPSILON ${UOT_EPSILON} \
     TRAINER.LAMP.UOT_TAU ${UOT_TAU} \
     TRAINER.LAMP.UOT_ITERS ${UOT_ITERS}
-
-
-done

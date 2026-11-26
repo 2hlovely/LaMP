@@ -6,21 +6,7 @@ from ..base_dataset import Datum, DatasetBase,Datum_sf
 
 @DATASET_REGISTRY.register()
 class DomainNet_SF(DatasetBase):
-    """DomainNet.
 
-    Statistics:
-        - 6 distinct domains: Clipart, Infograph, Painting, Quickdraw,
-        Real, Sketch.
-        - Around 0.6M images.
-        - 345 categories.
-        - URL: http://ai.bu.edu/M3SDA/.
-
-    Special note: the t-shirt class (327) is missing in painting_train.txt.
-
-    Reference:
-        - Peng et al. Moment Matching for Multi-Source Domain
-        Adaptation. ICCV 2019.
-    """
 
     dataset_dir = "domainnet"
     domains = [
@@ -39,11 +25,11 @@ class DomainNet_SF(DatasetBase):
 
         test_datasets=[]
         for domain in cfg.DATASET.TARGET_DOMAINS:
-            test_datasets.append(self._read_data([domain], split="test"))
+            test_datasets.append(self._read_data([domain], split="all"))
         train=self._read_train_data(train_data)
 
         super().__init__(train_x=train, test=test_datasets)
-        
+
 
     def _read_train_data(self,train_data):
         items=[]
@@ -65,37 +51,44 @@ class DomainNet_SF(DatasetBase):
         items = []
 
         for domain, dname in enumerate(input_domains):
-            filename = dname + "_" + split + ".txt"
-            split_file = osp.join(self.split_dir, filename)
-
-            with open(split_file, "r") as f:
-                lines = f.readlines()
-                for line in lines:
-                    line = line.strip()
-                    relative_path, label = line.rsplit(maxsplit=1)
-                    path_parts = relative_path.split("/")
-                    if len(path_parts) < 3:
-                        raise ValueError(
-                            "Invalid DomainNet path '{}' in {}".format(
-                                relative_path, split_file
-                            )
+            splits = ["train", "test"] if split == "all" else [split]
+            lines = []
+            for split_name in splits:
+                split_file = osp.join(
+                    self.split_dir, dname + "_" + split_name + ".txt"
+                )
+                with open(split_file, "r") as f:
+                    lines.extend((line, split_file) for line in f.readlines())
+            seen = set()
+            for line, split_file in lines:
+                line = line.strip()
+                relative_path, label = line.rsplit(maxsplit=1)
+                if relative_path in seen:
+                    continue
+                seen.add(relative_path)
+                path_parts = relative_path.split("/")
+                if len(path_parts) < 3:
+                    raise ValueError(
+                        "Invalid DomainNet path '{}' in {}".format(
+                            relative_path, split_file
                         )
-                    classname = path_parts[1]
-                    impath = osp.join(
-                        self.image_dir, relative_path.replace("/", osp.sep)
                     )
-                    if not osp.isfile(impath):
-                        raise FileNotFoundError(
-                            "DomainNet split entry does not exist: '{}' "
-                            "(from {})".format(impath, split_file)
-                        )
-                    label = int(label)
-                    item = Datum(
-                        impath=impath,
-                        label=label,
-                        domain=domain,
-                        classname=classname
+                classname = path_parts[1]
+                impath = osp.join(
+                    self.image_dir, relative_path.replace("/", osp.sep)
+                )
+                if not osp.isfile(impath):
+                    raise FileNotFoundError(
+                        "DomainNet split entry does not exist: '{}' "
+                        "(from {})".format(impath, split_file)
                     )
-                    items.append(item)
+                label = int(label)
+                item = Datum(
+                    impath=impath,
+                    label=label,
+                    domain=domain,
+                    classname=classname
+                )
+                items.append(item)
 
         return items

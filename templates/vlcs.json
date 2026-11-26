@@ -1,252 +1,252 @@
 {
-    "vlcs_domain_class_descriptions": {
-        "CALTECH": {
-            "bird": [
-                "A Caltech-style image of a bird with a clear object-centered silhouette, visible wings, beak, head, and body.",
-                "A bird in the Caltech domain, usually appearing as a cleanly framed object with recognizable feathers, wings, and beak.",
-                "A Caltech-style bird image showing a distinct avian shape with a small head, pointed beak, body, wings, and tail.",
-                "A bird depicted in a Caltech-like image, often centered with limited background clutter and clear body contours.",
-                "A Caltech-domain bird with visible wing structure, feather texture, beak, legs, and compact animal body.",
-                "A clean object-focused image of a bird, where the beak, wings, tail, and body outline are visually identifiable.",
-                "A Caltech-style bird with a recognizable flying or perched posture, visible feathers, and a clear avian silhouette.",
-                "A bird shown with simple scene context, emphasizing its body shape, wing edges, beak, and tail.",
-                "A Caltech image of a bird where the main object is visually separated from the background and easy to recognize.",
-                "A bird in a clean visual setting, identifiable by its beak, wings, feathered body, tail, and small legs."
-            ],
-            "car": [
-                "A Caltech-style image of a car with a clear object-centered view, visible wheels, windows, body, and roofline.",
-                "A car in the Caltech domain, usually shown as a cleanly framed vehicle with distinct tires and rectangular body shape.",
-                "A Caltech-style car image showing the vehicle silhouette, windshield, side windows, headlights, and wheels.",
-                "A car depicted in a Caltech-like image, often centered with limited clutter and clear structural parts.",
-                "A Caltech-domain car with visible body panels, tires, windows, bumper, and overall vehicle outline.",
-                "A clean object-focused image of a car, where the roof, wheels, windows, and front or side shape are identifiable.",
-                "A Caltech-style car with a recognizable automobile profile, smooth body surface, and wheel placement.",
-                "A car shown with simple background context, emphasizing its vehicle shape, tires, windows, and body contours.",
-                "A Caltech image of a car where the main object is separated from the background and visually easy to classify.",
-                "A car in a clean visual setting, identifiable by its wheels, windshield, body frame, headlights, and roof."
-            ],
-            "chair": [
-                "A Caltech-style image of a chair with a clear object-centered view, visible seat, backrest, legs, and frame.",
-                "A chair in the Caltech domain, usually shown as a cleanly framed object with distinct sitting surface and support legs.",
-                "A Caltech-style chair image showing the back support, seat area, legs, and simple furniture silhouette.",
-                "A chair depicted in a Caltech-like image, often centered with limited background clutter and clear structural parts.",
-                "A Caltech-domain chair with visible seat, backrest, leg supports, and recognizable furniture shape.",
-                "A clean object-focused image of a chair, where the seat, back, legs, and frame outline are identifiable.",
-                "A Caltech-style chair with a recognizable furniture profile, simple geometry, and visible support structure.",
-                "A chair shown with simple scene context, emphasizing its seat surface, backrest, and legs.",
-                "A Caltech image of a chair where the main object is separated from the background and visually easy to recognize.",
-                "A chair in a clean visual setting, identifiable by its backrest, seat, legs, and rigid frame."
-            ],
-            "dog": [
-                "A Caltech-style image of a dog with a clear object-centered silhouette, visible fur, ears, snout, legs, and tail.",
-                "A dog in the Caltech domain, usually shown as a cleanly framed animal with recognizable canine face and body.",
-                "A Caltech-style dog image showing the head, muzzle, ears, torso, four legs, and tail.",
-                "A dog depicted in a Caltech-like image, often centered with limited background clutter and clear body contours.",
-                "A Caltech-domain dog with visible fur texture, paws, ears, tail, and compact animal body.",
-                "A clean object-focused image of a dog, where the snout, ears, legs, tail, and body outline are identifiable.",
-                "A Caltech-style dog with a recognizable standing or sitting posture, visible canine head, and four limbs.",
-                "A dog shown with simple scene context, emphasizing its furry body, muzzle, ears, and tail.",
-                "A Caltech image of a dog where the main animal is visually separated from the background and easy to classify.",
-                "A dog in a clean visual setting, identifiable by its paws, snout, ears, fur-covered body, and tail."
-            ],
-            "person": [
-                "A Caltech-style image of a person with a clear object-centered view, visible head, torso, arms, legs, and clothing.",
-                "A person in the Caltech domain, usually shown as a cleanly framed human figure with recognizable body proportions.",
-                "A Caltech-style person image showing the head, shoulders, torso, arms, legs, and human posture.",
-                "A person depicted in a Caltech-like image, often centered with limited background clutter and clear human silhouette.",
-                "A Caltech-domain person with visible face or head, body, limbs, clothing, and upright human structure.",
-                "A clean object-focused image of a person, where the head, torso, arms, legs, and clothing outline are identifiable.",
-                "A Caltech-style person with a recognizable standing or walking posture and visible human body parts.",
-                "A person shown with simple scene context, emphasizing body shape, limbs, head, and clothing.",
-                "A Caltech image of a person where the human figure is separated from the background and visually easy to recognize.",
-                "A person in a clean visual setting, identifiable by the head, torso, arms, legs, posture, and clothing."
-            ]
-        },
-        "LABELME": {
-            "bird": [
-                "A LabelMe-style scene image containing a bird, often with natural background clutter and visible beak, wings, and body.",
-                "A bird in the LabelMe domain, appearing within a real-world scene with surrounding objects, trees, sky, or ground.",
-                "A LabelMe-style bird image where the animal may be small in the scene but identifiable by wings, beak, and tail.",
-                "A bird shown in a cluttered everyday environment, with its avian outline visible against natural or urban context.",
-                "A LabelMe-domain bird with visible body, head, beak, and wings, embedded in a complex real-world background.",
-                "A scene-level image of a bird, where the bird's shape must be recognized despite background objects and context.",
-                "A LabelMe bird example with varied scale, natural lighting, and visible feathers, wings, or perched posture.",
-                "A bird appearing in an annotated scene, identifiable by its compact body, pointed beak, wings, and tail.",
-                "A LabelMe image containing a bird with less object isolation and more environmental clutter around it.",
-                "A real-world scene image where a bird is recognized through its beak, wing contours, feathered body, and posture."
-            ],
-            "car": [
-                "A LabelMe-style scene image containing a car, often with roads, buildings, other vehicles, or street background clutter.",
-                "A car in the LabelMe domain, appearing within a real-world street scene with visible wheels, windows, and body.",
-                "A LabelMe-style car image where the vehicle may be partially occluded but identifiable by tires, roofline, and windshield.",
-                "A car shown in a cluttered everyday environment, with its automobile outline visible among road or urban objects.",
-                "A LabelMe-domain car with visible body panels, wheels, windows, and headlights within a complex scene.",
-                "A scene-level image of a car, where the vehicle shape must be recognized despite background clutter and context.",
-                "A LabelMe car example with varied scale, perspective, lighting, and visible vehicle structure.",
-                "A car appearing in an annotated scene, identifiable by its tires, windows, bumper, and rectangular vehicle body.",
-                "A LabelMe image containing a car with less object isolation and more environmental objects around it.",
-                "A real-world scene image where a car is recognized through its wheels, windshield, side panels, and roof."
-            ],
-            "chair": [
-                "A LabelMe-style scene image containing a chair, often with indoor or outdoor clutter and visible seat, backrest, and legs.",
-                "A chair in the LabelMe domain, appearing within a real-world scene with surrounding furniture, walls, or objects.",
-                "A LabelMe-style chair image where the furniture may be partially occluded but identifiable by seat, back, and supports.",
-                "A chair shown in a cluttered everyday environment, with its furniture outline visible among scene objects.",
-                "A LabelMe-domain chair with visible seat surface, backrest, legs, and frame within a complex background.",
-                "A scene-level image of a chair, where the object shape must be recognized despite clutter and perspective changes.",
-                "A LabelMe chair example with varied scale, lighting, and visible support structure or sitting surface.",
-                "A chair appearing in an annotated scene, identifiable by its back support, seat, legs, and rigid frame.",
-                "A LabelMe image containing a chair with less object isolation and more environmental context around it.",
-                "A real-world scene image where a chair is recognized through its seat, backrest, legs, and furniture geometry."
-            ],
-            "dog": [
-                "A LabelMe-style scene image containing a dog, often with natural or urban background clutter and visible snout, ears, and legs.",
-                "A dog in the LabelMe domain, appearing within a real-world scene with surrounding objects, ground, people, or vegetation.",
-                "A LabelMe-style dog image where the animal may be partially occluded but identifiable by fur, ears, paws, and tail.",
-                "A dog shown in a cluttered everyday environment, with its canine outline visible against scene context.",
-                "A LabelMe-domain dog with visible furry body, muzzle, ears, legs, and tail within a complex background.",
-                "A scene-level image of a dog, where the animal shape must be recognized despite clutter and variable scale.",
-                "A LabelMe dog example with varied pose, natural lighting, and visible canine face or body parts.",
-                "A dog appearing in an annotated scene, identifiable by its snout, ears, paws, tail, and animal posture.",
-                "A LabelMe image containing a dog with less object isolation and more environmental objects around it.",
-                "A real-world scene image where a dog is recognized through its furry body, muzzle, ears, legs, and tail."
-            ],
-            "person": [
-                "A LabelMe-style scene image containing a person, often with street, indoor, or outdoor background clutter.",
-                "A person in the LabelMe domain, appearing within a real-world scene with surrounding objects and visible human body parts.",
-                "A LabelMe-style person image where the human may be small or partially occluded but identifiable by head, torso, and limbs.",
-                "A person shown in a cluttered everyday environment, with a human silhouette visible among scene objects.",
-                "A LabelMe-domain person with visible head, torso, arms, legs, clothing, and posture within a complex background.",
-                "A scene-level image of a person, where the human figure must be recognized despite clutter and variable scale.",
-                "A LabelMe person example with varied pose, lighting, and visible clothing or human body proportions.",
-                "A person appearing in an annotated scene, identifiable by head, shoulders, torso, arms, and legs.",
-                "A LabelMe image containing a person with less object isolation and more environmental context around the figure.",
-                "A real-world scene image where a person is recognized through body posture, limbs, clothing, and human proportions."
-            ]
-        },
-        "PASCAL": {
-            "bird": [
-                "A PASCAL-style image of a bird with varied pose, realistic background, visible beak, wings, feathers, and tail.",
-                "A bird in the PASCAL domain, often shown in a natural image with complex context and clear avian body parts.",
-                "A PASCAL-style bird image where the object may vary in scale, viewpoint, and occlusion but retains a winged silhouette.",
-                "A bird from a PASCAL-like image, identifiable by its beak, head, feathered body, wings, and tail.",
-                "A PASCAL-domain bird with natural appearance, varied lighting, and visible feathers or perched posture.",
-                "A realistic object recognition image of a bird, emphasizing its beak, wings, body shape, and surrounding context.",
-                "A bird shown in a PASCAL-style dataset image, with possible background clutter but recognizable avian structure.",
-                "A PASCAL bird example with natural colors, wing contours, tail shape, and a compact animal body.",
-                "A real-world image of a bird where object scale, pose, and background may vary significantly.",
-                "A bird in a PASCAL-like scene, identifiable by the pointed beak, wings, feather texture, and body outline."
-            ],
-            "car": [
-                "A PASCAL-style image of a car with varied viewpoint, realistic background, visible wheels, windows, and body panels.",
-                "A car in the PASCAL domain, often shown in a natural image with complex context and clear vehicle structure.",
-                "A PASCAL-style car image where the vehicle may vary in scale, angle, and occlusion but retains an automobile shape.",
-                "A car from a PASCAL-like image, identifiable by its tires, windshield, headlights, roofline, and body.",
-                "A PASCAL-domain car with natural appearance, varied lighting, and visible wheels or side panels.",
-                "A realistic object recognition image of a car, emphasizing its wheels, windows, vehicle body, and surrounding context.",
-                "A car shown in a PASCAL-style dataset image, with possible background clutter but recognizable automobile structure.",
-                "A PASCAL car example with natural colors, body contours, tire placement, and a clear vehicle profile.",
-                "A real-world image of a car where object scale, viewpoint, and background may vary significantly.",
-                "A car in a PASCAL-like scene, identifiable by the wheels, windshield, doors, bumper, and roof."
-            ],
-            "chair": [
-                "A PASCAL-style image of a chair with varied viewpoint, realistic background, visible seat, backrest, legs, and frame.",
-                "A chair in the PASCAL domain, often shown in a natural image with complex context and clear furniture structure.",
-                "A PASCAL-style chair image where the object may vary in scale, angle, and occlusion but retains a sitting structure.",
-                "A chair from a PASCAL-like image, identifiable by its seat surface, back support, legs, and rigid frame.",
-                "A PASCAL-domain chair with natural appearance, varied lighting, and visible furniture supports.",
-                "A realistic object recognition image of a chair, emphasizing its seat, backrest, legs, and surrounding context.",
-                "A chair shown in a PASCAL-style dataset image, with possible background clutter but recognizable furniture structure.",
-                "A PASCAL chair example with clear geometry, support legs, seat plane, and backrest outline.",
-                "A real-world image of a chair where object scale, viewpoint, and background may vary significantly.",
-                "A chair in a PASCAL-like scene, identifiable by the backrest, seat, legs, frame, and furniture silhouette."
-            ],
-            "dog": [
-                "A PASCAL-style image of a dog with varied pose, realistic background, visible fur, ears, muzzle, legs, and tail.",
-                "A dog in the PASCAL domain, often shown in a natural image with complex context and clear canine body parts.",
-                "A PASCAL-style dog image where the animal may vary in scale, viewpoint, and occlusion but retains a canine silhouette.",
-                "A dog from a PASCAL-like image, identifiable by its snout, ears, furry body, paws, and tail.",
-                "A PASCAL-domain dog with natural appearance, varied lighting, and visible fur or animal posture.",
-                "A realistic object recognition image of a dog, emphasizing its muzzle, ears, body shape, and surrounding context.",
-                "A dog shown in a PASCAL-style dataset image, with possible background clutter but recognizable canine structure.",
-                "A PASCAL dog example with natural coat colors, four legs, tail shape, and compact animal body.",
-                "A real-world image of a dog where object scale, pose, and background may vary significantly.",
-                "A dog in a PASCAL-like scene, identifiable by the snout, ears, paws, tail, and furry body outline."
-            ],
-            "person": [
-                "A PASCAL-style image of a person with varied pose, realistic background, visible head, torso, arms, legs, and clothing.",
-                "A person in the PASCAL domain, often shown in a natural image with complex context and clear human body parts.",
-                "A PASCAL-style person image where the human may vary in scale, viewpoint, and occlusion but retains a human silhouette.",
-                "A person from a PASCAL-like image, identifiable by head, shoulders, torso, arms, legs, and posture.",
-                "A PASCAL-domain person with natural appearance, varied lighting, visible clothing, and human proportions.",
-                "A realistic object recognition image of a person, emphasizing body posture, limbs, clothing, and surrounding context.",
-                "A person shown in a PASCAL-style dataset image, with possible background clutter but recognizable human structure.",
-                "A PASCAL person example with visible face or head, torso, arms, legs, and upright or seated body shape.",
-                "A real-world image of a person where object scale, pose, and background may vary significantly.",
-                "A person in a PASCAL-like scene, identifiable by the head, torso, limbs, clothing, and human body outline."
-            ]
-        },
-        "SUN": {
-            "bird": [
-                "A SUN-style scene image containing a bird within a broader environment, with visible beak, wings, body, and contextual background.",
-                "A bird in the SUN domain, often appearing as part of a scene where background layout and environment are prominent.",
-                "A SUN-style bird image where the animal may be small relative to the scene but recognizable by wings, beak, and tail.",
-                "A bird shown in a scene-centric image, with its avian shape visible among natural or built environmental context.",
-                "A SUN-domain bird with visible head, beak, feathered body, and wings, embedded in a broader scene.",
-                "A scene-focused image of a bird, where the object is recognized through silhouette and body parts within context.",
-                "A SUN bird example with environmental cues, varied scale, and visible wing contours or perched posture.",
-                "A bird appearing in a scene recognition image, identifiable by beak, wings, tail, and compact body.",
-                "A SUN image containing a bird with strong background presence and potentially smaller object scale.",
-                "A scene-level image where a bird is recognized through its beak, wing shape, feathered body, and surrounding environment."
-            ],
-            "car": [
-                "A SUN-style scene image containing a car within a broader environment, with visible wheels, windows, body, and road context.",
-                "A car in the SUN domain, often appearing as part of a scene where background layout and environment are prominent.",
-                "A SUN-style car image where the vehicle may be small relative to the scene but recognizable by tires and body shape.",
-                "A car shown in a scene-centric image, with its vehicle outline visible among roads, buildings, or outdoor context.",
-                "A SUN-domain car with visible wheels, windshield, body panels, and roofline embedded in a broader scene.",
-                "A scene-focused image of a car, where the object is recognized through vehicle structure within environmental context.",
-                "A SUN car example with street or outdoor cues, varied scale, and visible tire placement or vehicle profile.",
-                "A car appearing in a scene recognition image, identifiable by wheels, windows, bumper, and automobile body.",
-                "A SUN image containing a car with strong background presence and potentially smaller object scale.",
-                "A scene-level image where a car is recognized through its wheels, roofline, windshield, and surrounding environment."
-            ],
-            "chair": [
-                "A SUN-style scene image containing a chair within a broader environment, with visible seat, backrest, legs, and room context.",
-                "A chair in the SUN domain, often appearing as part of a scene where background layout and indoor environment are prominent.",
-                "A SUN-style chair image where the furniture may be small relative to the scene but recognizable by seat and backrest.",
-                "A chair shown in a scene-centric image, with its furniture outline visible among rooms, tables, walls, or outdoor context.",
-                "A SUN-domain chair with visible seat surface, back support, legs, and frame embedded in a broader scene.",
-                "A scene-focused image of a chair, where the object is recognized through furniture structure within environmental context.",
-                "A SUN chair example with indoor or outdoor scene cues, varied scale, and visible support legs or sitting surface.",
-                "A chair appearing in a scene recognition image, identifiable by backrest, seat, legs, and rigid furniture body.",
-                "A SUN image containing a chair with strong background presence and potentially smaller object scale.",
-                "A scene-level image where a chair is recognized through its seat, back support, legs, and surrounding environment."
-            ],
-            "dog": [
-                "A SUN-style scene image containing a dog within a broader environment, with visible fur, snout, ears, legs, and contextual background.",
-                "A dog in the SUN domain, often appearing as part of a scene where background layout and environment are prominent.",
-                "A SUN-style dog image where the animal may be small relative to the scene but recognizable by ears, muzzle, and tail.",
-                "A dog shown in a scene-centric image, with its canine outline visible among natural, indoor, or outdoor context.",
-                "A SUN-domain dog with visible head, snout, furry body, legs, and tail embedded in a broader scene.",
-                "A scene-focused image of a dog, where the animal is recognized through silhouette and body parts within context.",
-                "A SUN dog example with environmental cues, varied scale, and visible canine face or standing posture.",
-                "A dog appearing in a scene recognition image, identifiable by ears, snout, paws, tail, and furry body.",
-                "A SUN image containing a dog with strong background presence and potentially smaller object scale.",
-                "A scene-level image where a dog is recognized through its muzzle, ears, legs, tail, and surrounding environment."
-            ],
-            "person": [
-                "A SUN-style scene image containing a person within a broader environment, with visible head, torso, limbs, and contextual background.",
-                "A person in the SUN domain, often appearing as part of a scene where background layout and environment are prominent.",
-                "A SUN-style person image where the human may be small relative to the scene but recognizable by head, body, and limbs.",
-                "A person shown in a scene-centric image, with the human silhouette visible among indoor or outdoor context.",
-                "A SUN-domain person with visible head, torso, arms, legs, clothing, and posture embedded in a broader scene.",
-                "A scene-focused image of a person, where the human is recognized through body shape and posture within context.",
-                "A SUN person example with environmental cues, varied scale, and visible clothing or human body proportions.",
-                "A person appearing in a scene recognition image, identifiable by head, shoulders, torso, arms, and legs.",
-                "A SUN image containing a person with strong background presence and potentially smaller object scale.",
-                "A scene-level image where a person is recognized through body posture, limbs, clothing, and surrounding environment."
-            ]
-        }
-    }
+ "vlcs_domain_class_descriptions": {
+  "CALTECH": {
+   "bird": [
+    "A bird in the Caltech domain, usually appearing as a cleanly framed object with recognizable feathers, wings, and beak.",
+    "A Caltech-style bird image showing a distinct avian shape with a small head, pointed beak, body, wings, and tail.",
+    "A CALTECH image of a bird looking down from a branch, with a compact head, glossy black feathers, a pale beak, and clawed toes wrapped around wood.",
+    "A photo of a bird standing on the ground, showing two thin legs, a compact torso, smooth breast feathers, and a short tail with dry grass behind it.",
+    "A clean object-focused image of a bird, where the beak, wings, tail, and body outline are visually identifiable.",
+    "A bird in a clean visual setting, identifiable by its beak, wings, feathered body, tail, and small legs.",
+    "A Caltech image of a bird where the main object is visually separated from the background and easy to recognize.",
+    "A CALTECH image of a bird centered on a plain branch, with puffed chest feathers, dark wing tips, a short square tail, and an open beak.",
+    "A bird depicted in a Caltech-like image, often centered with limited background clutter and clear body contours.",
+    "A CALTECH image of a bird seen from the side on a rock, displaying a curved neck, folded wing, clawed feet, and a tapered tail."
+   ],
+   "car": [
+    "A car in the Caltech domain, usually shown as a cleanly framed vehicle with distinct tires and rectangular body shape.",
+    "A CALTECH image of a compact car with a hatchback rear, short hood, upright rear window, and black tires on pavement.",
+    "A clean object-focused image of a car, where the roof, wheels, windows, and front or side shape are identifiable.",
+    "A photo of a car facing the camera, with two headlights, a grille, hood surface, and side mirrors clearly visible.",
+    "A CALTECH image of a car viewed from the rear, with red taillights, a rear window, bumper, and visible license-plate area.",
+    "A CALTECH image of a car on a street with part of a building behind, emphasizing the front bumper, hood, windshield, and front tires.",
+    "A photo of a car in profile with four black tires, a long side window strip, door seams, and a low roofline against a plain background.",
+    "A Caltech image of a car where the main object is separated from the background and visually easy to classify.",
+    "A car shown with simple background context, emphasizing its vehicle shape, tires, windows, and body contours.",
+    "A CALTECH image of a car with a boxy sedan body, silver paint, chrome trim, and wheels turned slightly toward the viewer."
+   ],
+   "chair": [
+    "A Caltech image of a chair where the main object is separated from the background and visually easy to recognize.",
+    "A chair in the Caltech domain, usually shown as a cleanly framed object with distinct sitting surface and support legs.",
+    "A Caltech-style image of a chair with a clear object-centered view, visible seat, backrest, legs, and frame.",
+    "A CALTECH image of a black office chair with a padded seat, curved backrest, and five-wheel star base centered on a neutral background.",
+    "A CALTECH image of a blue plastic stackable chair with a molded seat, rounded back, and four metal legs isolated against white.",
+    "A CALTECH image of a wooden dining chair with a slatted backrest, four straight legs, and a plain light background.",
+    "A CALTECH image of a metal folding chair with thin tubular legs, a perforated seat, and an angled view in a sparse room.",
+    "A Caltech-style chair with a recognizable furniture profile, simple geometry, and visible support structure.",
+    "A CALTECH image of a transparent acrylic chair with a molded rounded seat and visible frame centered against a white background.",
+    "A Caltech-style chair image showing the back support, seat area, legs, and simple furniture silhouette."
+   ],
+   "dog": [
+    "A photo of a dog outdoors beside a tree, wearing a blue harness and showing a panting open mouth and bright eyes.",
+    "A clean object-focused image of a dog, where the snout, ears, legs, tail, and body outline are identifiable.",
+    "A dog shown with simple scene context, emphasizing its furry body, muzzle, ears, and tail.",
+    "A photo of a dog indoors on a carpet, lying with hind legs stretched out and a spotted coat across its back.",
+    "A Caltech-style image of a dog with a clear object-centered silhouette, visible fur, ears, snout, legs, and tail.",
+    "A CALTECH image of a dog looking over its shoulder, showing a pointed snout, erect ears, and a bushy tail raised.",
+    "A CALTECH image of a dog with a glossy black coat, upright ears, and a long muzzle facing the camera.",
+    "A Caltech-style dog image showing the head, muzzle, ears, torso, four legs, and tail.",
+    "A CALTECH image of a light brown dog with floppy ears, a dark nose, and white markings on its chest and paws.",
+    "A Caltech image of a dog where the main animal is visually separated from the background and easy to classify."
+   ],
+   "person": [
+    "A CALTECH image of a person from behind, showing the back of the head, shoulders, and a backpack, with legs mid-stride.",
+    "A photo of a person seated on a chair, with bent knees, visible hands resting on the lap, and a light-colored jacket.",
+    "A photo of a person in a long dress or skirt with visible flowing fabric, standing with feet together and arms relaxed.",
+    "A photo of a person raising one arm overhead, wearing a yellow shirt and black pants, with the body angled slightly to the side.",
+    "A clean object-focused image of a person, where the head, torso, arms, legs, and clothing outline are identifiable.",
+    "A CALTECH image of a person in a short-sleeved white t-shirt and blue jeans, arms slightly away from the body and full figure centered.",
+    "A photo of a person with a dark hat and long-sleeved coat, facing the camera with head and shoulders clearly visible in a simple scene.",
+    "A CALTECH image of a person leaning against a wall, one shoulder touching the surface, wearing a denim jacket and dark jeans.",
+    "A Caltech image of a person where the human figure is separated from the background and visually easy to recognize.",
+    "A CALTECH image of a person walking outdoors, one leg forward, wearing a red top and carrying a shoulder bag."
+   ]
+  },
+  "LABELME": {
+   "bird": [
+    "A photo of a bird standing on the ground in a LABELME scene, with two thin legs, clawed feet, a small head, and a tapered beak, clearly not a four-legged dog or a metal car.",
+    "A LABELME image of a bird near water or pavement, with an oval feathered body, two legs, a short beak, and folded wings, lacking the long snout of a dog or the chassis of a car.",
+    "A photo of a bird on a branch in a LABELME image, with a feathered torso, visible beak and eye, folded wings, and clawed feet gripping the wood, unlike a dog's paws or a car's smooth metal panels.",
+    "A photo of a bird in a LABELME outdoor scene, with a distinct head-beak profile, wing surfaces, and tail feathers, while its small size and perch posture separate it from dogs and cars.",
+    "A LABELME image of a small bird on the ground near grass, with a round feathered torso, tiny beak, wing contours, and stick-like legs, not a barking dog or a wheeled vehicle.",
+    "A scene-level image of a bird, where the bird's shape must be recognized despite background objects and context.",
+    "A LABELME image of a bird in flight against a cluttered sky, with outstretched wings, visible feather edges, a compact body, and a short tail, lacking dog paws or car windows.",
+    "A LABELME image of a bird perched on a wire, with a slender body, pointed beak, overlapping wing feathers, and thin tail, not a furry dog or a wheeled car.",
+    "A photo of a bird perched on a post in a LABELME scene, with a streamlined body, small rounded head, beak pointing outward, and tail feathers, clearly not a quadruped dog or a boxy car.",
+    "A bird appearing in an annotated scene, identifiable by its compact body, pointed beak, wings, and tail."
+   ],
+   "car": [
+    "A LABELME image of a car seen from above, revealing a roof, hood, and four wheel positions, a flat metal shape unlike a person's head and shoulders.",
+    "A LABELME image of a car angled in perspective, with a visible hood, two side windows, and a rear wheel, its boxy metal form separating it from a pedestrian.",
+    "A car appearing in an annotated scene, identifiable by its tires, windows, bumper, and rectangular vehicle body.",
+    "A photo of a car partially seen behind a pole, still identifiable by its rounded wheel arches, front bumper, and windshield, not by a human head or shoulders.",
+    "A LabelMe image containing a car with less object isolation and more environmental objects around it.",
+    "A LABELME image of a car from the rear, showing a trunk lid, taillights, and a license plate, with no upright human posture or limbs.",
+    "A photo of a car parked along a curb, with a rectangular license plate, side mirrors, and four wheels, clearly a rigid vehicle rather than a standing human figure.",
+    "A LABELME image of a car seen from the side, showing a low metal body, two rubber tires touching the ground, and a slanted windshield that contrasts with an upright person's silhouette.",
+    "A photo of a car near a building, with reflective glass windows, a side mirror, and a dark tire, its rigid body and wheels distinguishing it from nearby people.",
+    "A photo of a car on a street, featuring a roof, tinted windows, and a rear bumper, with no human limbs or upright torso visible."
+   ],
+   "chair": [
+    "A photo of a wooden chair with a visible slatted back, straight legs, and no human figure seated on it, placed beside a table.",
+    "A LABELME image of a chair with a visible cushion, back support, and four legs, surrounded by annotated scene clutter.",
+    "A photo of an empty chair with a curved backrest and thin metal frame, standing alone in an outdoor scene.",
+    "A LABELME image of a plastic chair with armrests, a molded seat, and four stable legs set on a plain floor.",
+    "A photo of a chair viewed from the side, showing its seat plane, upright back, and separate legs rather than a human silhouette or vehicle body.",
+    "A chair appearing in an annotated scene, identifiable by its back support, seat, legs, and rigid frame.",
+    "A LABELME image of a chair with a flat rectangular seat, a vertical backrest, and four thin legs standing empty in a room.",
+    "A photo of an office chair with a padded seat, tall backrest, and a five-point base, clearly distinct from a car by its indoor furniture form.",
+    "A photo of a chair with a woven seat and slatted backrest, its frame and legs clearly visible in a domestic setting.",
+    "A LabelMe-style chair image where the furniture may be partially occluded but identifiable by seat, back, and supports."
+   ],
+   "dog": [
+    "A photo of a dog walking on a gravel road with a person nearby, its quadruped silhouette, pointed ears, muzzle, and tail separating it from the upright figure.",
+    "A LabelMe image containing a dog with less object isolation and more environmental objects around it.",
+    "A photo of a dog jumping over low grass, its furry body stretched horizontally, ears back, snout forward, and hind legs off the ground.",
+    "A real-world scene image where a dog is recognized through its furry body, muzzle, ears, legs, and tail.",
+    "A LABELME image of a golden dog sitting upright on its hindquarters in a yard, front paws down, tongue out, and furry tail curled beside it.",
+    "A LABELME image of a gray dog standing beside a parked car, identifiable by its four legs, tail, muzzle, and fur rather than wheels or windows.",
+    "A photo of a dog lying down on a tiled floor, with its head resting on front paws, visible ears and muzzle, and no human-like upright posture.",
+    "A LabelMe-domain dog with visible furry body, muzzle, ears, legs, and tail within a complex background.",
+    "A photo of a small white dog sitting on grass, its furry quadruped body, pointed ears, black nose, and front paws clearly visible beside shrubs.",
+    "A dog shown in a cluttered everyday environment, with its canine outline visible against scene context."
+   ],
+   "person": [
+    "A photo of a person in a LabelMe street or room scene, identifiable by skin-toned head and hands plus clothing covering a torso and limbs, rather than metal panels or wooden legs.",
+    "A LABELME image of a person sitting or standing, with a head above a torso and limbs that bend at joints, lacking the four legs and seat of a chair.",
+    "A photo of a person in a LabelMe scene, recognizable by an upright torso, two arms at the sides, and feet touching the ground, not by wheels or a seat.",
+    "A LabelMe-style person image where the human may be small or partially occluded but identifiable by head, torso, and limbs.",
+    "A LABELME image of a person, shown as a tall upright figure with a head at the top and two legs extending downward, unlike a low wide car or a compact chair.",
+    "A LabelMe-style scene image containing a person, often with street, indoor, or outdoor background clutter.",
+    "A LabelMe person example with varied pose, lighting, and visible clothing or human body proportions.",
+    "A photo of a person in a LabelMe scene, showing a head, neck, shoulders, torso, arms, and legs arranged as a single living body, not an inanimate seat or vehicle.",
+    "A person in the LabelMe domain, appearing within a real-world scene with surrounding objects and visible human body parts.",
+    "A LABELME image of a person viewed from front, side, or back, with a continuous human outline and limb joints, while cars show windows and chairs show a backrest."
+   ]
+  },
+  "PASCAL": {
+   "bird": [
+    "A photo of a bird perched among leaves, with a small head, visible wing patch, and tail feathers contrasting with the background.",
+    "A photo of a bird on a rock, its feathers smooth, beak pointed, and tail projecting backward, with no dog-like ears or snout.",
+    "A bird in the PASCAL domain, often shown in a natural image with complex context and clear avian body parts.",
+    "A real-world image of a bird where object scale, pose, and background may vary significantly.",
+    "A PASCAL bird example with natural colors, wing contours, tail shape, and a compact animal body.",
+    "A bird from a PASCAL-like image, identifiable by its beak, head, feathered body, wings, and tail.",
+    "A PASCAL-domain bird with natural appearance, varied lighting, and visible feathers or perched posture.",
+    "A PASCAL image of a bird seen side-on, with a smooth head, small eye, curved beak, and layered wing feathers against a natural background.",
+    "A PASCAL image of a bird with a long tail and folded wings, perched upright on a branch, distinguished by feathers and beak rather than fur or clothing.",
+    "A photo of a bird close to the ground, with a rounded feathered breast, pointed beak, and tail angled upward, not a four-legged dog shape."
+   ],
+   "car": [
+    "A car shown in a PASCAL-style dataset image, with possible background clutter but recognizable automobile structure.",
+    "A car in the PASCAL domain, often shown in a natural image with complex context and clear vehicle structure.",
+    "A PASCAL image of a car angled three-quarters, revealing a hood, headlights, grille, and four tires instead of legs.",
+    "A photo of a car with a visible exhaust pipe, rear window, side panels, and wheel rims, standing on paved ground.",
+    "A photo of a car from a high angle, showing a roof, front and rear windshields, side windows, and four tires in a rectangular layout.",
+    "A PASCAL image of a car viewed from the rear, with a rectangular license plate, red taillights, rear bumper, and trunk lid.",
+    "A photo of a car in a parking lot, with a front license plate, side mirrors, door handles, and smooth painted doors.",
+    "A PASCAL-style car image where the vehicle may vary in scale, angle, and occlusion but retains an automobile shape.",
+    "A car from a PASCAL-like image, identifiable by its tires, windshield, headlights, roofline, and body.",
+    "A photo of a car parked on an asphalt road, showing four dark tires, a metal roof, side windows, and no human limbs or fur."
+   ],
+   "chair": [
+    "A PASCAL-style image of a chair with varied viewpoint, realistic background, visible seat, backrest, legs, and frame.",
+    "A PASCAL-style chair image where the object may vary in scale, angle, and occlusion but retains a sitting structure.",
+    "A chair from a PASCAL-like image, identifiable by its seat surface, back support, legs, and rigid frame.",
+    "A photo of a stackable cafe chair with a round seat, curved back, and four metal legs.",
+    "A PASCAL image of an upholstered dining chair with a high back, fabric seat, and tapered wooden legs.",
+    "A chair in the PASCAL domain, often shown in a natural image with complex context and clear furniture structure.",
+    "A PASCAL image of a metal-frame chair with a mesh back, black seat, and thin tubular legs.",
+    "A realistic object recognition image of a chair, emphasizing its seat, backrest, legs, and surrounding context.",
+    "A PASCAL-domain chair with natural appearance, varied lighting, and visible furniture supports.",
+    "A photo of a wooden rocking chair with curved runners, a slatted back, and armrests."
+   ],
+   "dog": [
+    "A realistic object recognition image of a dog, emphasizing its muzzle, ears, body shape, and surrounding context.",
+    "A PASCAL image of a dog walking toward the camera, showing a broad muzzle, two ears, front legs, and a furry chest.",
+    "A photo of a small dog on grass with short legs, rounded torso, pointed ears, and a wagging tail.",
+    "A PASCAL-style image of a dog with varied pose, realistic background, visible fur, ears, muzzle, legs, and tail.",
+    "A photo of a dog seated on its hindquarters, front paws planted, with a long muzzle and visible fur coat distinct from human limbs.",
+    "A dog in the PASCAL domain, often shown in a natural image with complex context and clear canine body parts.",
+    "A PASCAL dog example with natural coat colors, four legs, tail shape, and compact animal body.",
+    "A PASCAL-style dog image where the animal may vary in scale, viewpoint, and occlusion but retains a canine silhouette.",
+    "A photo of a dog facing left with a black nose, open mouth, erect ears, and a furry neck.",
+    "A PASCAL image of a dog running with a stretched four-legged stride, ears back, tail extended, and no human clothing."
+   ],
+   "person": [
+    "A photo of a person seated on a chair, wearing a shirt, with bent knees, visible hands, and a human face framed by hair.",
+    "A photo of a person walking across a street in a light shirt and dark trousers, with a clearly vertical, two-legged body shape.",
+    "A person from a PASCAL-like image, identifiable by head, shoulders, torso, arms, legs, and posture.",
+    "A person in a PASCAL-like scene, identifiable by the head, torso, limbs, clothing, and human body outline.",
+    "A PASCAL image of a person standing upright in a jacket and trousers, with a visible head, two arms, two legs, and feet, rather than a wheeled car or four-legged dog.",
+    "A photo of a person crouching in a garden, with bent limbs, a clothed torso, a visible head, and human hands rather than paws.",
+    "A PASCAL-style image of a person with varied pose, realistic background, visible head, torso, arms, legs, and clothing.",
+    "A PASCAL-domain person with natural appearance, varied lighting, visible clothing, and human proportions.",
+    "A PASCAL person example with visible face or head, torso, arms, legs, and upright or seated body shape.",
+    "A real-world image of a person where object scale, pose, and background may vary significantly."
+   ]
+  },
+  "SUN": {
+   "bird": [
+    "A photo of a bird perched on a wire, with a smooth feathered outline, a small rounded head, a short beak, and a tail hanging below the line.",
+    "A bird in the SUN domain, often appearing as part of a scene where background layout and environment are prominent.",
+    "A SUN image containing a bird with strong background presence and potentially smaller object scale.",
+    "A SUN image of a bird in flight against a sky background, with spread wings, a streamlined feathered body, a small head, and a trailing tail, distinct from a person or four-legged dog.",
+    "A SUN-domain bird with visible head, beak, feathered body, and wings, embedded in a broader scene.",
+    "A photo of a bird on a rooftop, shown as a compact feathered silhouette with folded wings, a short tail, and a beak, much smaller than a person and lacking dog legs.",
+    "A bird appearing in a scene recognition image, identifiable by beak, wings, tail, and compact body.",
+    "A SUN image of a bird among bushes, partly hidden but identifiable by its beak, wing feathers, and tail, with a body shape unlike a person or dog.",
+    "A SUN image of a small bird perched upright on a thin branch, showing a pointed beak, rounded feathered body, folded wings, and a narrow tail, with no human face or dog-like snout.",
+    "A photo of a bird perched on a fence post in a landscape, with a sharp beak, smooth feathers, a long tail, and clawed feet gripping the wood."
+   ],
+   "car": [
+    "A SUN image of a car parked beside a curb, showing four rubber tires, a metal body with doors, glass windows, and a roof that distinguish it from upright people or small birds.",
+    "A car shown in a scene-centric image, with its vehicle outline visible among roads, buildings, or outdoor context.",
+    "A SUN-style scene image containing a car within a broader environment, with visible wheels, windows, body, and road context.",
+    "A SUN image of a car near a building, where its glass windshield, side windows, license plate, and metallic panels reveal a vehicle rather than a person or bird.",
+    "A SUN-domain car with visible wheels, windshield, body panels, and roofline embedded in a broader scene.",
+    "A SUN image of a car on a driveway, with visible doors, windows, tires, and a rigid chassis that separates it from a standing person or flying bird.",
+    "A SUN image of a car in a parking lot, viewed from the side so its doors, windows, wheel arches, and rigid roofline are visible against painted parking lines.",
+    "A car appearing in a scene recognition image, identifiable by wheels, windows, bumper, and automobile body.",
+    "A SUN image containing a car with strong background presence and potentially smaller object scale.",
+    "A scene-focused image of a car, where the object is recognized through vehicle structure within environmental context."
+   ],
+   "chair": [
+    "A SUN-domain chair with visible seat surface, back support, legs, and frame embedded in a broader scene.",
+    "A photo of a wooden chair with four straight legs, a flat seat, and a vertical slatted backrest standing empty beside a table.",
+    "A SUN image containing a chair with strong background presence and potentially smaller object scale.",
+    "A SUN image of a green outdoor chair with a perforated seat and back resting on grass near a bench.",
+    "A SUN image of a dark upholstered chair with a high padded back and short wooden legs near a desk.",
+    "A SUN-style scene image containing a chair within a broader environment, with visible seat, backrest, legs, and room context.",
+    "A SUN image of a cushioned armchair with broad armrests and a thick back placed in a living room.",
+    "A photo of a small child-sized chair with a low seat and bright painted frame sitting in a classroom.",
+    "A photo of a stack of identical plastic chairs with visible seats and backs grouped along a hallway wall.",
+    "A SUN image of a red chair with a solid back panel and sturdy legs standing on a tiled floor."
+   ],
+   "dog": [
+    "A dog in the SUN domain, often appearing as part of a scene where background layout and environment are prominent.",
+    "A SUN-domain dog with visible head, snout, furry body, legs, and tail embedded in a broader scene.",
+    "A scene-focused image of a dog, where the animal is recognized through silhouette and body parts within context.",
+    "A photo of a light-coloured dog with a short muzzle and floppy ears resting on grass, its animal body and paws visible in the scene.",
+    "A dog shown in a scene-centric image, with its canine outline visible among natural, indoor, or outdoor context.",
+    "A photo of a medium-sized dog with brown fur and drooping ears standing near a building entrance, its four-legged stance, snout, and tail clearly visible.",
+    "A dog appearing in a scene recognition image, identifiable by ears, snout, paws, tail, and furry body.",
+    "A SUN image containing a dog with strong background presence and potentially smaller object scale.",
+    "A SUN image of a black dog sitting beside a grassy path, showing four legs, paws, floppy ears, and a snout, with no human limbs or vehicle body.",
+    "A SUN-style scene image containing a dog within a broader environment, with visible fur, snout, ears, legs, and contextual background."
+   ],
+   "person": [
+    "A person appearing in a scene recognition image, identifiable by head, shoulders, torso, arms, and legs.",
+    "A photo of a person sitting on steps, identifiable by head, torso, bent legs, and arms, not by chair legs or car parts.",
+    "A SUN image of a person outdoors near a building, with visible head, torso, arms, and legs in a bipedal stance, unlike a parked car.",
+    "A SUN-style person image where the human may be small relative to the scene but recognizable by head, body, and limbs.",
+    "A SUN image containing a person with strong background presence and potentially smaller object scale.",
+    "A SUN image of a person in a hallway, seen as an upright clothed figure with a head and legs, with no wheels, windows, or seat cushions.",
+    "A SUN image of a person at a doorway, with a vertical body silhouette, clothing, and limbs that distinguish them from chairs and cars.",
+    "A scene-level image where a person is recognized through body posture, limbs, clothing, and surrounding environment.",
+    "A SUN image of a person seated on a chair but distinguishable by a human head, torso, arms, and legs, not a piece of furniture itself.",
+    "A photo of a small person in the distance on a sidewalk, recognizable by an upright human silhouette and clothing, with no vehicle body or wheels."
+   ]
+  }
+ }
 }
